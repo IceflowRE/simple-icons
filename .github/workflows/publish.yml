@@ -38,13 +38,14 @@ jobs:
       - name: Create archives
         run: python ./ci/generate_archives.py
 
+      - name: Prepare upload artifacts
+        run: zip -r icons ./gen/minimized/ ./gen/optimized/
+
       - name: Upload artifacts
         uses: actions/upload-artifact@v2
         with:
           name: icons
-          path: |
-            ./gen/minimized/
-            ./gen/optimized/
+          path: icons.zip
 
       - name: Prepare release
         run: |
