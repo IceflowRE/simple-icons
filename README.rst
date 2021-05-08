@@ -7,14 +7,14 @@ Iceflower Simple Icons
 
 ----
 
-Simple icons are 2D style icons to provide an easy readability even if displayed small.
+Iceflower Simple Icons are monochrome icons with an easy visibility.
 
 I provide different style directions each colored and white.
 
 Preview
 =======
 
-You can find a preview over all icons `here <https://github.com/IceflowRE/simple-icons/tree/preview#readme>`__.
+You can find a preview of all icons `here <https://github.com/IceflowRE/simple-icons/tree/preview#readme>`__.
 
 Download
 ========
