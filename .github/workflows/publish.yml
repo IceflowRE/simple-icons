@@ -23,7 +23,7 @@ jobs:
       - name: Update environment
         run: |
           apt update -qq
-          apt install -y git
+          apt install -y git zip
 
       - name: Checkout
         uses: actions/checkout@v2
