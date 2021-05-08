@@ -1,28 +1,41 @@
 **********************
 Iceflower Simple Icons
 **********************
-|maintained| |programming language| |license|
+|maintained| |license|
 
 |github actions|
 
 ----
 
-Simple icons are 2D style icons to provide an easy readability even on mobile phones.
-I provide different style directions each colored or white:
+Simple icons are 2D style icons to provide an easy readability even if displayed small.
 
-- with an outer circle
-- with an outer rounded rectangle
-- the pure icon
+I provide different style directions each colored and white.
 
 Preview
 =======
 
+You can find a preview over all icons `here <https://github.com/IceflowRE/simple-icons/tree/preview#readme>`__.
 
+Download
+========
 
-Web
-===
+Every icon package comes as an optimized and minimized version. Both are optimized svg's, to minimize the file size.
+The optimized version contains additionally the copyright notice.
 
-https://github.com/IceflowRE/simple-icons
+Reminder: do not forget the attribution wherever you are using the icons.
+
+Download the latest icons `here <https://github.com/IceflowRE/simple-icons/releases/tag/latest>`__.
+
+Design Principles
+=================
+
+Every icon
+
+- should be easily distinguishable and visible
+- should have a little space to the outer circle
+- may have rounded corner to show interactability
+- may have a squared / angular corner to show no interactability
+- has one color which is chosen arbitrarily, but should be the same for every topic
 
 Credits
 =======
@@ -38,16 +51,16 @@ Icon license
    :alt: CC BY-SA 4.0
    :align: center
 
-The icons by `Iceflower S <mailto:iceflower@gmx.de>`__ are licensed under CC BY-SA 4.0.
+Iceflower Simple Icons (c) by `Iceflower S <mailto:iceflower@gmx.de>`__
+
+Iceflower Simple Icons is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+You should have received a copy of the license along with this work. If not, see `here <http://creativecommons.org/licenses/by-sa/4.0/>`__.
 
 .. Badges.
 
 .. |maintained| image:: https://img.shields.io/badge/maintained-yes-brightgreen.svg
 
-.. |programming language| image:: https://img.shields.io/badge/language-Python_3.8-orange.svg
-   :target: https://www.python.org/
+.. |license| image:: https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue
 
-.. |license| image:: https://img.shields.io/badge/license-CC%20BY--SA%204.0%20%2F%20MIT-blue
-
-.. |github actions| image:: https://github.com/IceflowRE/unidown/workflows/Build/badge.svg
+.. |github actions| image:: https://github.com/IceflowRE/simple-icons/actions/workflows/publish.yml/badge.svg
    :target: https://github.com/IceflowRE/simple-icons/actions

@@ -1,0 +1,118 @@
+name: Publishing
+on:
+  push:
+    branches:
+      - main
+
+env:
+  DEBIAN_FRONTEND: "noninteractive"
+  preview_git_path: './preview/'
+  main_git_path: './main/'
+
+jobs:
+  icons:
+    name: Publish icons
+    runs-on: ubuntu-latest
+    container: python:latest
+    steps:
+      - name: Cancel Previous Runs
+        uses: styfle/cancel-workflow-action@0.9.0
+        with:
+          access_token: ${{ github.token }}
+
+      - name: Update environment
+        run: |
+          apt update -qq
+          apt install -y git
+
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Install symbconv
+        run: |
+          pip install ./symbconv/
+
+      - name: Create icons
+        run: python ./ci/generate_icons.py
+
+      - name: Create archives
+        run: python ./ci/generate_archives.py
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: icons
+          path: |
+            ./gen/minimized/
+            ./gen/optimized/
+
+      - name: Prepare release
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git tag latest
+          git push -f origin tag latest
+
+      - name: Release icons
+        uses: softprops/action-gh-release@v1
+        with:
+          name: Latest Iceflower Simple Icons
+          tag_name: latest
+          draft: false
+          prerelease: false
+          files: ./gen/archives/*
+          # body gets appended so ignore it, it is set manually
+          # body: Read the readme to get information about the different packages.
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+
+  previews:
+    name: Publish previews
+    runs-on: ubuntu-latest
+    container: python:latest
+    steps:
+      - name: Update environment
+        run: |
+          apt update -qq
+          apt install -y git
+
+      - name: Checkout main
+        uses: actions/checkout@v2
+        with:
+          path: ${{ env.main_git_path }}
+
+      - name: Checkout preview
+        uses: actions/checkout@v2
+        with:
+          ref: 'preview'
+          path: ${{ env.preview_git_path }}
+
+      - name: Install symbconv
+        working-directory: ${{ env.main_git_path }}
+        run: |
+          pip install ./symbconv/
+
+      - name: Create previews
+        working-directory: ${{ env.main_git_path }}
+        run: |
+          python ./ci/generate_icons.py
+          python ./ci/generate_previews.py
+
+      - name: Remove old previews
+        working-directory: ${{ env.preview_git_path }}
+        run: |
+          rm -f README.rst
+          find . -name 'preview-*.rst' -delete
+          rm -rf ./icons/
+
+      - name: Prepare new preview
+        run: cp -rf ${{ env.main_git_path }}/preview/* ${{ env.preview_git_path }}
+
+      - name: Push new preview
+        working-directory: ${{ env.preview_git_path }}
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git diff-index --quiet HEAD || git commit -am "[preview] Preview of ${{ github.sha }}"
+          git push

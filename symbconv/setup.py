@@ -25,6 +25,7 @@ setup(
     python_requires='>=3.9',
     install_requires=[
         "lxml",
+        "scour",
         "tqdm",
     ],
     zip_safe=True,

@@ -1,25 +1,4 @@
-****************************
-Symbol Converter and Utility
-****************************
-
-If you have any questions about the python helper open an issue or take a look into the code, it should be self-explanatory.
-
-Third Party
------------
-
-lxml
-    - Donald Stufft and individual contributors
-    - https://github.com/lxml/lxml
-    - `BSD-3-Clause <https://github.com/lxml/lxml/blob/master/LICENSE.txt>`__
-tqdm
-    - `noamraph <https://github.com/noamraph>`__
-    - https://github.com/tqdm/tqdm
-    - `MIT, MPL-2.0 <https://raw.githubusercontent.com/tqdm/tqdm/master/LICENCE>`__
-
-License
--------
-
-Copyright 2021-present Iceflower S
+Copyright 2021-present Iceflower - <iceflower@gmx.de>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
