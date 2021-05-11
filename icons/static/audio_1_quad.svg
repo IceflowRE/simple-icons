@@ -42,7 +42,16 @@
      id="circle"
      style="fill:none;stroke:#ffab00;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" />
   <path
-     id="path854-2-3-0"
-     style="fill:none;stroke:#ffab00;stroke-width:40;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
-     d="M 561.00001,375.16796 A 158,158.00003 0 0 1 640,512 158,158.00003 0 0 1 560.99999,648.83204" />
+     style="fill:none;fill-opacity:0.16;stroke:#ffab00;stroke-width:40;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
+     id="path1004-3-9"
+     sodipodi:type="arc"
+     sodipodi:cx="480"
+     sodipodi:cy="512"
+     sodipodi:rx="160"
+     sodipodi:ry="160"
+     sodipodi:start="5.2359878"
+     sodipodi:end="1.0471976"
+     sodipodi:arc-type="arc"
+     sodipodi:open="true"
+     d="M 560.00001,373.43594 A 160,160 0 0 1 640,512 160,160 0 0 1 559.99999,650.56407" />
 </svg>
