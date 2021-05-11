@@ -7,9 +7,9 @@ Iceflower Simple Icons
 
 ----
 
-Iceflower Simple Icons are monochrome icons with an easy visibility.
+Iceflower Simple Icons are monochrome icons with an enhanced visibility.
 
-I provide different style directions each colored and white.
+I provide colored and white style directions.
 
 Preview
 =======
@@ -20,7 +20,7 @@ Download
 ========
 
 Every icon package comes as an optimized and minimized version. Both are optimized svg's, to minimize the file size.
-The optimized version contains additionally the copyright notice.
+Additionally, the optimized version contains the copyright notice.
 
 Reminder: do not forget the attribution wherever you are using the icons.
 
@@ -35,7 +35,7 @@ Every icon
 - should have a little space to the outer circle
 - may have rounded corner to show interactability
 - may have a squared / angular corner to show no interactability
-- has one color which is chosen arbitrarily, but should be the same for every topic
+- has one arbitrary color which should be the same for every topic
 
 Credits
 =======
