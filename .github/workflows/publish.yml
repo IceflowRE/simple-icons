@@ -1,4 +1,4 @@
-name: Publishing
+name: Publish
 on:
   push:
     branches:
@@ -11,7 +11,7 @@ env:
 
 jobs:
   icons:
-    name: Publish icons
+    name: Icons
     runs-on: ubuntu-latest
     container: python:latest
     steps:
@@ -68,7 +68,7 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
 
   previews:
-    name: Publish previews
+    name: Previews
     runs-on: ubuntu-latest
     container: python:latest
     steps:
