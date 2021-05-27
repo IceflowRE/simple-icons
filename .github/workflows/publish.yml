@@ -59,6 +59,8 @@ jobs:
         with:
           token: ${{ github.token }}
           name: Latest Iceflower Simple Icons
+          omitBody: true
+          omitBodyDuringUpdate: true
           tag: latest
           allowUpdates: true
           draft: false
