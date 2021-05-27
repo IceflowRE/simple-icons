@@ -16,11 +16,14 @@ def edit_svg_batch(paths: list[tuple[Path, Path]], actions: list[EditActions], d
     """
     Edit svgs based on a path list.
     """
+    success: bool = True
     for source, output in tqdm(paths, total=len(paths), desc="Edit svg", unit='svg', mininterval=1, ncols=100, disable=False):
         try:
             edit_svg(source, output, actions)
         except Exception as ex:
+            success = False
             tqdm.write(f"Failed to apply changes to '{source}': {str(ex)}")
+    return success
 
 
 def edit_svg(source: Path, output: Path, actions: list[EditActions]):

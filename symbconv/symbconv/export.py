@@ -5,15 +5,18 @@ from scour import scour
 from tqdm import tqdm
 
 
-def export_batch(paths: list[tuple[Path, Path]], func, desc: str):
+def export_batch(paths: list[tuple[Path, Path]], func, desc: str) -> bool:
     """
     Export based on a path list.
     """
+    success: bool = True
     for source, output in tqdm(paths, total=len(paths), desc=desc, unit='svg', mininterval=1, ncols=100, disable=False):
         try:
             func(source, output)
         except Exception as ex:
+            success = False
             tqdm.write(f"Failed to apply changes to '{source}': {str(ex)}")
+    return success
 
 
 def minimize_svg(in_path: Path, out_path: Path):
