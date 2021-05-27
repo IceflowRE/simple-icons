@@ -55,17 +55,16 @@ jobs:
           git push -f origin tag latest
 
       - name: Release icons
-        uses: softprops/action-gh-release@v1
+        uses: ncipollo/release-action@v1
         with:
+          token: ${{ github.token }}
           name: Latest Iceflower Simple Icons
-          tag_name: latest
+          tag: latest
+          allowUpdates: true
           draft: false
           prerelease: false
-          files: ./gen/archives/*
-          # body gets appended so ignore it, it is set manually
-          # body: Read the readme to get information about the different packages.
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
+          artifacts: ./gen/archives/*
+          replacesArtifacts: true
 
   previews:
     name: Previews
