@@ -7,6 +7,7 @@ from tqdm import tqdm
 
 
 class EditActions(Enum):
+    CLEAN_UP = auto()  # removes not required inkscape entries
     REMOVE_CIRCLE = auto()
     ADD_RECT = auto()
     MAKE_WHITE = auto()
@@ -17,7 +18,7 @@ def edit_svg_batch(paths: list[tuple[Path, Path]], actions: list[EditActions], d
     Edit svgs based on a path list.
     """
     success: bool = True
-    for source, output in tqdm(paths, total=len(paths), desc="Edit svg", unit='svg', mininterval=1, ncols=100, disable=False):
+    for source, output in tqdm(paths, total=len(paths), desc=desc, unit='svg', mininterval=1, ncols=100, disable=False):
         try:
             edit_svg(source, output, actions)
         except Exception as ex:
@@ -31,7 +32,7 @@ def edit_svg(source: Path, output: Path, actions: list[EditActions]):
     Edit source svg and apply given actions and save to output.
     """
     # just be sure to not accidentally override the source file
-    if source == output:
+    if source == output and actions != [EditActions.CLEAN_UP]:
         raise ValueError("source file cannot be the same as the output file.")
 
     tree = etree.parse(str(source))
@@ -41,7 +42,9 @@ def edit_svg(source: Path, output: Path, actions: list[EditActions]):
         raise Exception(f"{source} does not contains a circle")
 
     for action in actions:
-        if action == EditActions.REMOVE_CIRCLE:
+        if action == EditActions.CLEAN_UP:
+            clean_up(tree)
+        elif action == EditActions.REMOVE_CIRCLE:
             remove_circle(tree)
         elif action == EditActions.ADD_RECT:
             add_rounded_rect(tree, color)
@@ -49,7 +52,7 @@ def edit_svg(source: Path, output: Path, actions: list[EditActions]):
             make_colored(tree, color, "#ffffff")
 
     output.parent.mkdir(parents=True, exist_ok=True)
-    tree.write(str(output), xml_declaration=True, method='xml', encoding='UTF-8', standalone=False)
+    tree.write(str(output), pretty_print=True, xml_declaration=True, method='xml', encoding='UTF-8', standalone=False)
 
 
 RX_COLOR: re.Pattern = re.compile(r"stroke:(#[a-fA-F\d]{6})")
@@ -64,6 +67,15 @@ def get_color(tree: etree.ElementTree) -> str:
             match = RX_COLOR.search(child.attrib['style'])
             if match is not None:
                 return match.group(1)
+
+
+def clean_up(tree: etree.ElementTree):
+    root = tree.getroot()
+    root.attrib.pop("{http://www.inkscape.org/namespaces/inkscape}version", None)
+    root.attrib.pop("{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}docname", None)
+    namedview = tree.find("{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}namedview")
+    if namedview is not None:
+        root.remove(namedview)
 
 
 def remove_circle(tree: etree.ElementTree):

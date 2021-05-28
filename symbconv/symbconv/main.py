@@ -14,6 +14,7 @@ def cmd_parser():
     subparsers = parser.add_subparsers(dest='command', required=True)
 
     parser_edit_svg = subparsers.add_parser('edit', help='edit given svg')
+    parser_edit_svg.add_argument('--clean_up', dest='clean_up', action='store_true', help='clean up selected not required inkcsape entries')
     parser_edit_svg.add_argument('--remove_circle', dest='remove_circle', action='store_true', help='remove circle from svg')
     parser_edit_svg.add_argument('--add_rect', dest='add_rect', action='store_true', help='add a rounded rectangle to the svg')
     parser_edit_svg.add_argument('--make_colored', dest='make_colored', action='store_true', help='make svg white')
@@ -42,6 +43,8 @@ def main():
 
     if args.command == 'edit':
         actions = []
+        if args.clean_up:
+            actions.append(EA.CLEAN_UP)
         if args.remove_circle:
             actions.append(EA.REMOVE_CIRCLE)
         if args.add_rect:

@@ -4,7 +4,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="symbconv",
-    version="1.0.1",
+    version="1.1.0",
     description="Symbol Converter and Utility",
     long_description="",
     long_description_content_type='text/x-rst',
