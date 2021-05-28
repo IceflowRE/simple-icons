@@ -52,7 +52,8 @@ def edit_svg(source: Path, output: Path, actions: list[EditActions]):
             make_colored(tree, color, "#ffffff")
 
     output.parent.mkdir(parents=True, exist_ok=True)
-    tree.write(str(output), pretty_print=True, xml_declaration=True, method='xml', encoding='UTF-8', standalone=False)
+    tree.write(str(output), pretty_print=True, xml_declaration=False, method='xml', encoding='UTF-8',
+               doctype='<?xml version="1.0" encoding="UTF-8" standalone="no"?>')
 
 
 RX_COLOR: re.Pattern = re.compile(r"stroke:(#[a-fA-F\d]{6})")
