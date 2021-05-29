@@ -43,6 +43,8 @@ Click on the images to display it.
 |dsc060|  |dsc061|  |dsc062|  |dsc063|  |dsc064|
 |svg065|  |svg066|  |svg067|  |svg068|  |svg069|
 |dsc065|  |dsc066|  |dsc067|  |dsc068|  |dsc069|
+|svg070|  |svg071|  |svg072|
+|dsc070|  |dsc071|  |dsc072|
 ========  ========  ========  ========  ========  
 
 
@@ -150,180 +152,192 @@ Click on the images to display it.
 .. |svg025| image:: icons/rectangle-white/hexagon.svg
     :width: 128px
     :target: icons/rectangle-white/hexagon.svg
-.. |dsc026| replace:: Info A
-.. |svg026| image:: icons/rectangle-white/info_a.svg
+.. |dsc026| replace:: Home
+.. |svg026| image:: icons/rectangle-white/home.svg
+    :width: 128px
+    :target: icons/rectangle-white/home.svg
+.. |dsc027| replace:: Info A
+.. |svg027| image:: icons/rectangle-white/info_a.svg
     :width: 128px
     :target: icons/rectangle-white/info_a.svg
-.. |dsc027| replace:: Info B
-.. |svg027| image:: icons/rectangle-white/info_b.svg
+.. |dsc028| replace:: Info B
+.. |svg028| image:: icons/rectangle-white/info_b.svg
     :width: 128px
     :target: icons/rectangle-white/info_b.svg
-.. |dsc028| replace:: Level 0
-.. |svg028| image:: icons/rectangle-white/level_0.svg
+.. |dsc029| replace:: Level 0
+.. |svg029| image:: icons/rectangle-white/level_0.svg
     :width: 128px
     :target: icons/rectangle-white/level_0.svg
-.. |dsc029| replace:: Level 1
-.. |svg029| image:: icons/rectangle-white/level_1.svg
+.. |dsc030| replace:: Level 1
+.. |svg030| image:: icons/rectangle-white/level_1.svg
     :width: 128px
     :target: icons/rectangle-white/level_1.svg
-.. |dsc030| replace:: Level 2
-.. |svg030| image:: icons/rectangle-white/level_2.svg
+.. |dsc031| replace:: Level 2
+.. |svg031| image:: icons/rectangle-white/level_2.svg
     :width: 128px
     :target: icons/rectangle-white/level_2.svg
-.. |dsc031| replace:: Level 3
-.. |svg031| image:: icons/rectangle-white/level_3.svg
+.. |dsc032| replace:: Level 3
+.. |svg032| image:: icons/rectangle-white/level_3.svg
     :width: 128px
     :target: icons/rectangle-white/level_3.svg
-.. |dsc032| replace:: Level 4
-.. |svg032| image:: icons/rectangle-white/level_4.svg
+.. |dsc033| replace:: Level 4
+.. |svg033| image:: icons/rectangle-white/level_4.svg
     :width: 128px
     :target: icons/rectangle-white/level_4.svg
-.. |dsc033| replace:: Level 5
-.. |svg033| image:: icons/rectangle-white/level_5.svg
+.. |dsc034| replace:: Level 5
+.. |svg034| image:: icons/rectangle-white/level_5.svg
     :width: 128px
     :target: icons/rectangle-white/level_5.svg
-.. |dsc034| replace:: Lightbulb
-.. |svg034| image:: icons/rectangle-white/lightbulb.svg
+.. |dsc035| replace:: Lightbulb
+.. |svg035| image:: icons/rectangle-white/lightbulb.svg
     :width: 128px
     :target: icons/rectangle-white/lightbulb.svg
-.. |dsc035| replace:: Menu
-.. |svg035| image:: icons/rectangle-white/menu.svg
+.. |dsc036| replace:: Menu
+.. |svg036| image:: icons/rectangle-white/menu.svg
     :width: 128px
     :target: icons/rectangle-white/menu.svg
-.. |dsc036| replace:: Microphone
-.. |svg036| image:: icons/rectangle-white/microphone.svg
+.. |dsc037| replace:: Microphone
+.. |svg037| image:: icons/rectangle-white/microphone.svg
     :width: 128px
     :target: icons/rectangle-white/microphone.svg
-.. |dsc037| replace:: Moon
-.. |svg037| image:: icons/rectangle-white/moon.svg
+.. |dsc038| replace:: Moon
+.. |svg038| image:: icons/rectangle-white/moon.svg
     :width: 128px
     :target: icons/rectangle-white/moon.svg
-.. |dsc038| replace:: Ok
-.. |svg038| image:: icons/rectangle-white/ok.svg
+.. |dsc039| replace:: Ok
+.. |svg039| image:: icons/rectangle-white/ok.svg
     :width: 128px
     :target: icons/rectangle-white/ok.svg
-.. |dsc039| replace:: Particles
-.. |svg039| image:: icons/rectangle-white/particles.svg
+.. |dsc040| replace:: Particles
+.. |svg040| image:: icons/rectangle-white/particles.svg
     :width: 128px
     :target: icons/rectangle-white/particles.svg
-.. |dsc040| replace:: Pause
-.. |svg040| image:: icons/rectangle-white/pause.svg
+.. |dsc041| replace:: Pause
+.. |svg041| image:: icons/rectangle-white/pause.svg
     :width: 128px
     :target: icons/rectangle-white/pause.svg
-.. |dsc041| replace:: Paused
-.. |svg041| image:: icons/rectangle-white/paused.svg
+.. |dsc042| replace:: Paused
+.. |svg042| image:: icons/rectangle-white/paused.svg
     :width: 128px
     :target: icons/rectangle-white/paused.svg
-.. |dsc042| replace:: Pen
-.. |svg042| image:: icons/rectangle-white/pen.svg
+.. |dsc043| replace:: Pen
+.. |svg043| image:: icons/rectangle-white/pen.svg
     :width: 128px
     :target: icons/rectangle-white/pen.svg
-.. |dsc043| replace:: People
-.. |svg043| image:: icons/rectangle-white/people.svg
+.. |dsc044| replace:: People
+.. |svg044| image:: icons/rectangle-white/people.svg
     :width: 128px
     :target: icons/rectangle-white/people.svg
-.. |dsc044| replace:: Power
-.. |svg044| image:: icons/rectangle-white/power.svg
+.. |dsc045| replace:: Power
+.. |svg045| image:: icons/rectangle-white/power.svg
     :width: 128px
     :target: icons/rectangle-white/power.svg
-.. |dsc045| replace:: Profile
-.. |svg045| image:: icons/rectangle-white/profile.svg
+.. |dsc046| replace:: Profile
+.. |svg046| image:: icons/rectangle-white/profile.svg
     :width: 128px
     :target: icons/rectangle-white/profile.svg
-.. |dsc046| replace:: Question
-.. |svg046| image:: icons/rectangle-white/question.svg
+.. |dsc047| replace:: Question
+.. |svg047| image:: icons/rectangle-white/question.svg
     :width: 128px
     :target: icons/rectangle-white/question.svg
-.. |dsc047| replace:: Record
-.. |svg047| image:: icons/rectangle-white/record.svg
+.. |dsc048| replace:: Record
+.. |svg048| image:: icons/rectangle-white/record.svg
     :width: 128px
     :target: icons/rectangle-white/record.svg
-.. |dsc048| replace:: Reload Double
-.. |svg048| image:: icons/rectangle-white/reload_double.svg
+.. |dsc049| replace:: Reload Double
+.. |svg049| image:: icons/rectangle-white/reload_double.svg
     :width: 128px
     :target: icons/rectangle-white/reload_double.svg
-.. |dsc049| replace:: Reload Double Quad
-.. |svg049| image:: icons/rectangle-white/reload_double_quad.svg
+.. |dsc050| replace:: Reload Double Quad
+.. |svg050| image:: icons/rectangle-white/reload_double_quad.svg
     :width: 128px
     :target: icons/rectangle-white/reload_double_quad.svg
-.. |dsc050| replace:: Reload Single
-.. |svg050| image:: icons/rectangle-white/reload_single.svg
+.. |dsc051| replace:: Reload Single
+.. |svg051| image:: icons/rectangle-white/reload_single.svg
     :width: 128px
     :target: icons/rectangle-white/reload_single.svg
-.. |dsc051| replace:: Reload Single Quad
-.. |svg051| image:: icons/rectangle-white/reload_single_quad.svg
+.. |dsc052| replace:: Reload Single Quad
+.. |svg052| image:: icons/rectangle-white/reload_single_quad.svg
     :width: 128px
     :target: icons/rectangle-white/reload_single_quad.svg
-.. |dsc052| replace:: Remove
-.. |svg052| image:: icons/rectangle-white/remove.svg
+.. |dsc053| replace:: Remove
+.. |svg053| image:: icons/rectangle-white/remove.svg
     :width: 128px
     :target: icons/rectangle-white/remove.svg
-.. |dsc053| replace:: Sandclock
-.. |svg053| image:: icons/rectangle-white/sandclock.svg
+.. |dsc054| replace:: Sandclock
+.. |svg054| image:: icons/rectangle-white/sandclock.svg
     :width: 128px
     :target: icons/rectangle-white/sandclock.svg
-.. |dsc054| replace:: Search
-.. |svg054| image:: icons/rectangle-white/search.svg
+.. |dsc055| replace:: Search
+.. |svg055| image:: icons/rectangle-white/search.svg
     :width: 128px
     :target: icons/rectangle-white/search.svg
-.. |dsc055| replace:: Search Quad
-.. |svg055| image:: icons/rectangle-white/search_quad.svg
+.. |dsc056| replace:: Search Quad
+.. |svg056| image:: icons/rectangle-white/search_quad.svg
     :width: 128px
     :target: icons/rectangle-white/search_quad.svg
-.. |dsc056| replace:: Settings A
-.. |svg056| image:: icons/rectangle-white/settings_a.svg
+.. |dsc057| replace:: Settings A
+.. |svg057| image:: icons/rectangle-white/settings_a.svg
     :width: 128px
     :target: icons/rectangle-white/settings_a.svg
-.. |dsc057| replace:: Settings B
-.. |svg057| image:: icons/rectangle-white/settings_b.svg
+.. |dsc058| replace:: Settings B
+.. |svg058| image:: icons/rectangle-white/settings_b.svg
     :width: 128px
     :target: icons/rectangle-white/settings_b.svg
-.. |dsc058| replace:: Sleeping
-.. |svg058| image:: icons/rectangle-white/sleeping.svg
+.. |dsc059| replace:: Sleeping
+.. |svg059| image:: icons/rectangle-white/sleeping.svg
     :width: 128px
     :target: icons/rectangle-white/sleeping.svg
-.. |dsc059| replace:: Start
-.. |svg059| image:: icons/rectangle-white/start.svg
+.. |dsc060| replace:: Snowflake
+.. |svg060| image:: icons/rectangle-white/snowflake.svg
+    :width: 128px
+    :target: icons/rectangle-white/snowflake.svg
+.. |dsc061| replace:: Square
+.. |svg061| image:: icons/rectangle-white/square.svg
+    :width: 128px
+    :target: icons/rectangle-white/square.svg
+.. |dsc062| replace:: Start
+.. |svg062| image:: icons/rectangle-white/start.svg
     :width: 128px
     :target: icons/rectangle-white/start.svg
-.. |dsc060| replace:: Started
-.. |svg060| image:: icons/rectangle-white/started.svg
+.. |dsc063| replace:: Started
+.. |svg063| image:: icons/rectangle-white/started.svg
     :width: 128px
     :target: icons/rectangle-white/started.svg
-.. |dsc061| replace:: Stop
-.. |svg061| image:: icons/rectangle-white/stop.svg
+.. |dsc064| replace:: Stop
+.. |svg064| image:: icons/rectangle-white/stop.svg
     :width: 128px
     :target: icons/rectangle-white/stop.svg
-.. |dsc062| replace:: Stopped
-.. |svg062| image:: icons/rectangle-white/stopped.svg
+.. |dsc065| replace:: Stopped
+.. |svg065| image:: icons/rectangle-white/stopped.svg
     :width: 128px
     :target: icons/rectangle-white/stopped.svg
-.. |dsc063| replace:: Sun A
-.. |svg063| image:: icons/rectangle-white/sun_a.svg
+.. |dsc066| replace:: Sun A
+.. |svg066| image:: icons/rectangle-white/sun_a.svg
     :width: 128px
     :target: icons/rectangle-white/sun_a.svg
-.. |dsc064| replace:: Sun B
-.. |svg064| image:: icons/rectangle-white/sun_b.svg
+.. |dsc067| replace:: Sun B
+.. |svg067| image:: icons/rectangle-white/sun_b.svg
     :width: 128px
     :target: icons/rectangle-white/sun_b.svg
-.. |dsc065| replace:: Text
-.. |svg065| image:: icons/rectangle-white/text.svg
+.. |dsc068| replace:: Text
+.. |svg068| image:: icons/rectangle-white/text.svg
     :width: 128px
     :target: icons/rectangle-white/text.svg
-.. |dsc066| replace:: Voice
-.. |svg066| image:: icons/rectangle-white/voice.svg
+.. |dsc069| replace:: Voice
+.. |svg069| image:: icons/rectangle-white/voice.svg
     :width: 128px
     :target: icons/rectangle-white/voice.svg
-.. |dsc067| replace:: Wait
-.. |svg067| image:: icons/rectangle-white/wait.svg
+.. |dsc070| replace:: Wait
+.. |svg070| image:: icons/rectangle-white/wait.svg
     :width: 128px
     :target: icons/rectangle-white/wait.svg
-.. |dsc068| replace:: Wait Quad
-.. |svg068| image:: icons/rectangle-white/wait_quad.svg
+.. |dsc071| replace:: Wait Quad
+.. |svg071| image:: icons/rectangle-white/wait_quad.svg
     :width: 128px
     :target: icons/rectangle-white/wait_quad.svg
-.. |dsc069| replace:: Warning
-.. |svg069| image:: icons/rectangle-white/warning.svg
+.. |dsc072| replace:: Warning
+.. |svg072| image:: icons/rectangle-white/warning.svg
     :width: 128px
     :target: icons/rectangle-white/warning.svg
 
