@@ -15,11 +15,11 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <ellipse ry="482" rx="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
+  <ellipse ry="482" rx="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ffab00;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
   <g id="g1509-4" transform="matrix(0.57142857,0,0,0.57142857,224.21429,314.82143)" style="stroke:none;stroke-width:131.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-  <path id="path874" style="fill:none;fill-opacity:1;stroke:#ff7100;stroke-width:40;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 512,177.10186 c -95.24418,0 -192.44336,61.37008 -192.44336,175.7207 C 319.55664,467.17318 424,486.94225 424,637.10186 h 88 88 c 0,-150.15961 104.44336,-169.92868 104.44336,-284.2793 0,-114.35062 -97.19918,-175.7207 -192.44336,-175.7207 z"/>
-  <path style="fill:none;stroke:#ff7100;stroke-width:40;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 600,707.10186 H 424" id="path923"/>
-  <path style="fill:none;stroke:#ff7100;stroke-width:40;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 586.5,777.10186 h -149" id="path923-2-6"/>
-  <path style="fill:none;stroke:#ff7100;stroke-width:40;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 546.00008,846.89786 -68.00015,2.8e-4" id="path923-2"/>
-  <path id="path874-44" style="fill:none;fill-opacity:1;stroke:#ff7100;stroke-width:40;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 618.06513,365.16276 c 0,-63.81334 -53.57132,-98.0609 -106.06513,-98.0609"/>
+  <path id="path874" style="fill:none;fill-opacity:1;stroke:#ffab00;stroke-width:40;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 512,177.10186 c -95.24418,0 -192.44336,61.37008 -192.44336,175.7207 C 319.55664,467.17318 424,486.94225 424,637.10186 h 88 88 c 0,-150.15961 104.44336,-169.92868 104.44336,-284.2793 0,-114.35062 -97.19918,-175.7207 -192.44336,-175.7207 z"/>
+  <path style="fill:none;stroke:#ffab00;stroke-width:40;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 600,707.10186 H 424" id="path923"/>
+  <path style="fill:none;stroke:#ffab00;stroke-width:40;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 586.5,777.10186 h -149" id="path923-2-6"/>
+  <path style="fill:none;stroke:#ffab00;stroke-width:40;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 546.00008,846.89786 -68.00015,2.8e-4" id="path923-2"/>
+  <path id="path874-44" style="fill:none;fill-opacity:1;stroke:#ffab00;stroke-width:40;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 618.06513,365.16276 c 0,-63.81334 -53.57132,-98.0609 -106.06513,-98.0609"/>
 </svg>
