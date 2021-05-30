@@ -73,6 +73,9 @@ def get_color(tree: etree.ElementTree) -> str:
 def clean_up(tree: etree.ElementTree):
     root = tree.getroot()
     root.attrib.pop("{http://www.inkscape.org/namespaces/inkscape}version", None)
+    root.attrib.pop("{http://www.inkscape.org/namespaces/inkscape}export-filename", None)
+    root.attrib.pop("{http://www.inkscape.org/namespaces/inkscape}export-xdpi", None)
+    root.attrib.pop("{http://www.inkscape.org/namespaces/inkscape}export-ydpi", None)
     root.attrib.pop("{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}docname", None)
     namedview = tree.find("{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}namedview")
     if namedview is not None:
