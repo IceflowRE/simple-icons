@@ -15,7 +15,7 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <path id="path846" style="color:#000000;fill:#d73737;stroke-linecap:round;-inkscape-stroke:none;paint-order:fill markers stroke" d="M 400 218.80469 C 282.13652 264.1143 198 378.57859 198 512 C 198 684.84865 339.15129 826 512 826 C 684.84871 826 826 684.84865 826 512 C 826 378.57859 741.86348 264.1143 624 218.80469 L 624 324.6875 C 687.62797 362.63331 730 432.08049 730 512 C 730 632.96641 632.96655 730 512 730 C 391.03345 730 294 632.96641 294 512 C 294 432.08049 336.37203 362.63331 400 324.6875 L 400 218.80469 z "/>
+  <path id="path846" style="color:#000000;fill:#d73737;stroke-linecap:round;-inkscape-stroke:none;paint-order:fill markers stroke" d="M 400 218.80469 C 282.13653 264.1143 198 378.57859 198 512 C 198 684.84864 339.15132 826 512 826 C 684.84868 826 826 684.84864 826 512 C 826 378.57859 741.86347 264.1143 624 218.80469 L 624 324.6875 C 687.62797 362.6333 730 432.08048 730 512 C 730 632.96642 632.96651 730 512 730 C 391.03349 730 294 632.96642 294 512 C 294 432.08048 336.37203 362.6333 400 324.6875 L 400 218.80469 z "/>
   <ellipse ry="482" rx="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#d73737;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
-  <path style="fill:none;stroke:#d73737;stroke-width:96;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 512,350.00012 v -208" id="path958-6"/>
+  <path style="fill:none;stroke:#d73737;stroke-width:96;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 512,375.68563 v -208" id="path958-6"/>
 </svg>

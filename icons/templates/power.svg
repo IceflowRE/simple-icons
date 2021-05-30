@@ -15,8 +15,11 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <ellipse style="fill:none;stroke:#d73737;stroke-width:96;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="path846" cx="512" cy="512" rx="266.00006" ry="265.99988"/>
+  <ellipse style="fill:none;stroke:#d73737;stroke-width:96;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="path846" cx="512" cy="512" rx="266" ry="265.99988"/>
+  <path style="color:#000000;fill:#52cc43;fill-opacity:0.421053;stroke-linecap:round;-inkscape-stroke:none;paint-order:fill markers stroke" d="M 826,512 C 826,339.15136 684.84868,198 512,198 339.15132,198 198,339.15136 198,512 m 96,0 c 0,-120.96642 97.03349,-218 218,-218 120.96651,0 218,97.03358 218,218" id="path846-6" sodipodi:nodetypes="csccsc"/>
   <path style="fill:none;stroke:#ffffff;stroke-width:224;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 512,350.00012 v -208" id="path958-6-2"/>
+  <path style="color:#000000;fill:#9f763c;fill-opacity:1;stroke-linecap:round;-inkscape-stroke:none" d="M 512,30 A 112,112 0 0 0 400,142 V 350 A 112,112 0 0 0 512,462 112,112 0 0 0 624,350 V 142 A 112,112 0 0 0 512,30 Z" id="path958-6-2-4"/>
   <ellipse ry="482" rx="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#d73737;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
-  <path style="fill:none;stroke:#d73737;stroke-width:96;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 512,350.00012 v -208" id="path958-6"/>
+  <path style="fill:none;stroke:#d73737;stroke-width:96;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 512,375.68563 v -208" id="path958-6"/>
+  <path style="fill:none;stroke:#ff00ed;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" d="M 400,218.72018 V 324.65109 H 624 V 218.72018 Z" id="path5895"/>
 </svg>
