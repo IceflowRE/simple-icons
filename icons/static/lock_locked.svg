@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg8" version="1.1" viewBox="0 0 1024 1024" height="1024" width="1024">
+  <defs id="defs8"/>
+  <metadata id="metadata">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Iceflower S - iceflower@gmx.de</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <ellipse style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" rx="482" ry="482"/>
+  <path id="rect852" style="color:#000000;fill:#ff7100;stroke-width:3;stroke-linecap:round;paint-order:fill markers stroke" d="M 480 216 C 409.64158 216 352 273.64158 352 344 L 352 464 C 298.816 464 256 506.816 256 560 L 256 712 C 256 765.184 298.816 808 352 808 L 672 808 C 725.184 808 768 765.184 768 712 L 768 560 C 768 506.816 725.184 464 672 464 L 672 344 C 672 273.64158 614.35842 216 544 216 L 480 216 z M 480 280 L 544 280 C 580.00947 280 608 307.99052 608 344 L 608 464 L 416 464 L 416 344 C 416 307.99052 443.99053 280 480 280 z M 512 540 C 538.592 540 560 561.408 560 588 L 560 684 C 560 710.592 538.592 732 512 732 C 485.408 732 464 710.592 464 684 L 464 588 C 464 561.408 485.408 540 512 540 z "/>
+</svg>
