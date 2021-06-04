@@ -87,7 +87,7 @@ def remove_circle(tree: etree.ElementTree):
     Remove the circle.
     """
     root = tree.getroot()
-    for child in tree.findall("{http://www.w3.org/2000/svg}ellipse"):
+    for child in tree.findall("{http://www.w3.org/2000/svg}circle"):
         if 'id' in child.attrib and child.attrib['id'] == "circle":
             root.remove(child)
             break
