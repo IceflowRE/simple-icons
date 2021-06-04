@@ -47,8 +47,8 @@ Click on the images to display it.
 |dsc070|  |dsc071|  |dsc072|  |dsc073|  |dsc074|
 |svg075|  |svg076|  |svg077|  |svg078|  |svg079|
 |dsc075|  |dsc076|  |dsc077|  |dsc078|  |dsc079|
-|svg080|
-|dsc080|
+|svg080|  |svg081|
+|dsc080|  |dsc081|
 ========  ========  ========  ========  ========  
 
 
@@ -320,60 +320,64 @@ Click on the images to display it.
 .. |svg066| image:: icons/pure-colored/settings_b.svg
     :width: 128px
     :target: icons/pure-colored/settings_b.svg
-.. |dsc067| replace:: Sleeping
-.. |svg067| image:: icons/pure-colored/sleeping.svg
+.. |dsc067| replace:: Share
+.. |svg067| image:: icons/pure-colored/share.svg
+    :width: 128px
+    :target: icons/pure-colored/share.svg
+.. |dsc068| replace:: Sleeping
+.. |svg068| image:: icons/pure-colored/sleeping.svg
     :width: 128px
     :target: icons/pure-colored/sleeping.svg
-.. |dsc068| replace:: Snowflake
-.. |svg068| image:: icons/pure-colored/snowflake.svg
+.. |dsc069| replace:: Snowflake
+.. |svg069| image:: icons/pure-colored/snowflake.svg
     :width: 128px
     :target: icons/pure-colored/snowflake.svg
-.. |dsc069| replace:: Square
-.. |svg069| image:: icons/pure-colored/square.svg
+.. |dsc070| replace:: Square
+.. |svg070| image:: icons/pure-colored/square.svg
     :width: 128px
     :target: icons/pure-colored/square.svg
-.. |dsc070| replace:: Start
-.. |svg070| image:: icons/pure-colored/start.svg
+.. |dsc071| replace:: Start
+.. |svg071| image:: icons/pure-colored/start.svg
     :width: 128px
     :target: icons/pure-colored/start.svg
-.. |dsc071| replace:: Started
-.. |svg071| image:: icons/pure-colored/started.svg
+.. |dsc072| replace:: Started
+.. |svg072| image:: icons/pure-colored/started.svg
     :width: 128px
     :target: icons/pure-colored/started.svg
-.. |dsc072| replace:: Stop
-.. |svg072| image:: icons/pure-colored/stop.svg
+.. |dsc073| replace:: Stop
+.. |svg073| image:: icons/pure-colored/stop.svg
     :width: 128px
     :target: icons/pure-colored/stop.svg
-.. |dsc073| replace:: Stopped
-.. |svg073| image:: icons/pure-colored/stopped.svg
+.. |dsc074| replace:: Stopped
+.. |svg074| image:: icons/pure-colored/stopped.svg
     :width: 128px
     :target: icons/pure-colored/stopped.svg
-.. |dsc074| replace:: Sun A
-.. |svg074| image:: icons/pure-colored/sun_a.svg
+.. |dsc075| replace:: Sun A
+.. |svg075| image:: icons/pure-colored/sun_a.svg
     :width: 128px
     :target: icons/pure-colored/sun_a.svg
-.. |dsc075| replace:: Sun B
-.. |svg075| image:: icons/pure-colored/sun_b.svg
+.. |dsc076| replace:: Sun B
+.. |svg076| image:: icons/pure-colored/sun_b.svg
     :width: 128px
     :target: icons/pure-colored/sun_b.svg
-.. |dsc076| replace:: Text
-.. |svg076| image:: icons/pure-colored/text.svg
+.. |dsc077| replace:: Text
+.. |svg077| image:: icons/pure-colored/text.svg
     :width: 128px
     :target: icons/pure-colored/text.svg
-.. |dsc077| replace:: Voice
-.. |svg077| image:: icons/pure-colored/voice.svg
+.. |dsc078| replace:: Voice
+.. |svg078| image:: icons/pure-colored/voice.svg
     :width: 128px
     :target: icons/pure-colored/voice.svg
-.. |dsc078| replace:: Wait
-.. |svg078| image:: icons/pure-colored/wait.svg
+.. |dsc079| replace:: Wait
+.. |svg079| image:: icons/pure-colored/wait.svg
     :width: 128px
     :target: icons/pure-colored/wait.svg
-.. |dsc079| replace:: Wait Quad
-.. |svg079| image:: icons/pure-colored/wait_quad.svg
+.. |dsc080| replace:: Wait Quad
+.. |svg080| image:: icons/pure-colored/wait_quad.svg
     :width: 128px
     :target: icons/pure-colored/wait_quad.svg
-.. |dsc080| replace:: Warning
-.. |svg080| image:: icons/pure-colored/warning.svg
+.. |dsc081| replace:: Warning
+.. |svg081| image:: icons/pure-colored/warning.svg
     :width: 128px
     :target: icons/pure-colored/warning.svg
 
