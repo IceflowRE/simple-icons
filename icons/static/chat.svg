@@ -15,7 +15,7 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <ellipse ry="482" rx="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
+  <circle r="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
   <g id="g1509-4" transform="matrix(0.57142857,0,0,0.57142857,224.21429,314.82143)" style="stroke:none;stroke-width:131.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
   <path id="rect861" style="fill:none;fill-opacity:1;stroke:#ff7100;stroke-width:40;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill;stop-color:#000000" d="m 347.57265,690.85833 c -80.97136,0 -146.15764,-64.50242 -146.15764,-144.62423 V 437.7659 c 0,-80.12182 65.18628,-144.62424 146.15764,-144.62424 h 328.85471 c 80.97131,0 146.15762,64.50243 146.15762,144.62424 v 108.4682 c 0,80.12185 -65.18632,144.62423 -146.15762,144.62423 H 515.39688"/>
   <path id="path870" style="fill:none;fill-opacity:1;stroke:#ff7100;stroke-width:40;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" d="m 515.39688,690.85833 -190.87865,83.30886 23.05443,-83.30886"/>

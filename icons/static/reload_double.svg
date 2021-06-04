@@ -17,7 +17,7 @@
   </metadata>
   <path id="path854-3-2" style="fill:none;stroke:#ff7100;stroke-width:80;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" d="M 271.79132,412.5023 A 260,260.00003 0 0 1 461.27651,256.9958 260,260.00003 0 0 1 695.84776,328.15221"/>
   <path id="path30-8-5-4-7-7" style="fill:#ff7100;fill-opacity:1;stroke:#ff7100;stroke-width:37.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 795.27317,427.5777 795.12648,255.19076 622.88649,427.43075 Z"/>
-  <ellipse ry="482" rx="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
+  <circle r="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
   <path id="path854-3-2-4" style="fill:none;stroke:#ff7100;stroke-width:80;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" d="m -752.20868,-611.4977 a 260,260.00003 0 0 1 189.48519,-155.5065 260,260.00003 0 0 1 234.57125,71.15641" transform="scale(-1)"/>
   <path id="path30-8-5-4-7-7-0" style="fill:#ff7100;fill-opacity:1;stroke:#ff7100;stroke-width:37.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 228.7269,596.42228 0.1467,172.38694 172.2399,-172.23999 z"/>
 </svg>

@@ -15,7 +15,7 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <ellipse ry="482" rx="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
+  <circle r="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
   <path id="path854-2" style="fill:none;stroke:#ff7100;stroke-width:40;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" d="M 659.00001,205.42694 A 354,354.00009 0 0 1 836,512 354,354.00009 0 0 1 658.99999,818.57308"/>
   <path id="path854-2-3" style="fill:none;stroke:#ff7100;stroke-width:40;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" d="M 610.00001,290.29742 A 256,256.00009 0 0 1 738,512 256,256.00009 0 0 1 609.99999,733.70259"/>
   <path id="path854-2-3-0" style="fill:none;stroke:#ff7100;stroke-width:40;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" d="M 561.00001,375.16796 A 158,158.00003 0 0 1 640,512 158,158.00003 0 0 1 560.99999,648.83204"/>

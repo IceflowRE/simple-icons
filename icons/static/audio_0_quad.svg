@@ -16,7 +16,7 @@
     </rdf:RDF>
   </metadata>
   <path style="fill:#ffab00;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 484.74571,212.00003 V 812.00004 L 276.0902,637.43701 H 144.32548 V 390.26054 H 276.0902 Z" id="path893-7"/>
-  <ellipse ry="482" rx="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ffab00;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
+  <circle r="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ffab00;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
   <path style="fill:none;stroke:#ffab00;stroke-width:60;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 827.41334,379.42641 562.26614,644.5736" id="path958"/>
   <path id="path958-6" d="M 827.41334,644.5736 562.26614,379.42641" style="fill:none;stroke:#ffab00;stroke-width:60;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
 </svg>

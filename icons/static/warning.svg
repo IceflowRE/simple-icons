@@ -24,7 +24,7 @@
     </rdf:RDF>
   </metadata>
   <g id="layer1" transform="translate(0,-32.416615)"/>
-  <ellipse style="fill:none;stroke:#ffab00;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" rx="482" ry="482"/>
+  <circle style="fill:none;stroke:#ffab00;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" r="482"/>
   <path style="fill:none;stroke:#ffab00;stroke-width:120;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 512,162 V 652" id="path958"/>
   <rect style="fill:#ffab00;fill-opacity:1;stroke:none;stroke-width:120;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000" id="rect15" width="120" height="120" x="452" y="742"/>
 </svg>

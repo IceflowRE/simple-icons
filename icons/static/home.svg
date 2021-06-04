@@ -15,7 +15,7 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <ellipse style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" rx="482" ry="482"/>
+  <circle style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" r="482"/>
   <path id="rect956" style="fill:#ff7100;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" d="M 512,320.31836 261.03906,530.89844 V 788.61719 H 427.70508 V 621.95117 H 594.37109 V 788.61719 H 761.03906 V 529.28711 Z"/>
   <path style="fill:none;stroke:#ff7100;stroke-width:80;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 512,195 827.98403,460.1421" id="path2425-5" sodipodi:nodetypes="cc"/>
   <path style="fill:none;stroke:#ff7100;stroke-width:80;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 512,195 196.01597,460.1421" id="path2425-5-55" sodipodi:nodetypes="cc"/>

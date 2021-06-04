@@ -39,7 +39,7 @@ def edit_svg(source: Path, output: Path, actions: list[EditActions]):
 
     color = get_color(tree)
     if color is None:
-        raise Exception(f"{source} does not contains a circle")
+        raise Exception(f"{source} does not contain a circle")
 
     for action in actions:
         if action == EditActions.CLEAN_UP:
@@ -63,7 +63,7 @@ def get_color(tree: etree.ElementTree) -> str:
     """
     Get the color of the outer circle.
     """
-    for child in tree.findall("{http://www.w3.org/2000/svg}ellipse"):
+    for child in tree.findall("{http://www.w3.org/2000/svg}circle"):
         if 'id' in child.attrib and 'style' in child.attrib and child.attrib['id'] and child.attrib['id'] == "circle":
             match = RX_COLOR.search(child.attrib['style'])
             if match is not None:

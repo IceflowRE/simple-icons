@@ -29,7 +29,7 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <ellipse style="fill:none;stroke:#b9f2ff;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" ry="482" rx="482"/>
+  <circle style="fill:none;stroke:#b9f2ff;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" r="482"/>
   <text xml:space="preserve" style="font-size:40px;line-height:1.25;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans'" x="644.58966" y="-231.18195" id="text2748"><tspan sodipodi:role="line" id="tspan2746" x="644.58966" y="-231.18195">Total Width = 1</tspan><tspan sodipodi:role="line" x="644.58966" y="-181.18195" id="tspan2750">Total Height = 0.593</tspan><tspan sodipodi:role="line" x="644.58966" y="-131.18195" id="tspan4520">Table Width = 0.53</tspan><tspan sodipodi:role="line" x="644.58966" y="-81.181938" id="tspan6758">Pavilon Height: 0.431</tspan><tspan sodipodi:role="line" x="644.58966" y="-31.181942" id="tspan16896">Crown Height: 0.162</tspan></text>
   <g id="g5126">
     <path style="fill:#b9f2ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M -167.41247,-523.73989 -336.61249,-407.09988 23.38752,-97.279879 383.38753,-407.09988 214.18752,-523.73989 Z" id="path1762-6-3-2"/>

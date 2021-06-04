@@ -52,7 +52,7 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <ellipse style="fill:none;stroke:#50c878;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" ry="482" rx="482"/>
+  <circle style="fill:none;stroke:#50c878;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" r="482"/>
   <path style="color:#000000;fill:#50c878;fill-opacity:1;stroke-linecap:square;paint-order:fill markers stroke" d="m 469.26953,709.5 -2.56836,6.1582 L 415.88867,837.5 H 608.11133 L 557.29883,715.6582 554.73047,709.5 Z" id="path3654"/>
   <path style="color:#000000;fill:#50c878;fill-opacity:1;stroke-linecap:square;paint-order:fill markers stroke" d="m 595.67969,685.6582 -11.41407,11.52539 2.56836,6.15821 50.8125,121.84179 86.03125,-86.86523 -121.91211,-50.15625 z" id="path3652"/>
   <path style="color:#000000;fill:#50c878;fill-opacity:1;stroke-linecap:square;paint-order:fill markers stroke" d="m 428.32031,685.6582 -6.08593,2.50391 -121.91211,50.15625 86.03125,86.86523 50.8125,-121.84179 2.56836,-6.16016 z" id="path3650"/>

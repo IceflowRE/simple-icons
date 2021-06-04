@@ -24,7 +24,7 @@
     </rdf:RDF>
   </metadata>
   <g id="layer1" transform="translate(0,-32.416615)"/>
-  <ellipse style="fill:none;stroke:#ffab00;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" rx="482" ry="482"/>
+  <circle style="fill:none;stroke:#ffab00;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" r="482"/>
   <path style="fill:none;stroke:#ffab00;stroke-width:30;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 476.27147,459.5 h 71.45705" id="path5150-2-5"/>
   <path style="fill:none;fill-opacity:0.531136;stroke:#ffab00;stroke-width:50;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 569.81769,762.87959 C 569.81769,484.05456 684,628.46111 684,446.91381 V 279.5 H 512" id="path840"/>
   <path style="fill:none;stroke:#ffab00;stroke-width:35;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 704,352.1159 120.00482,0.12815 c 0,114.61422 -21.39061,187.9398 -152.7369,176.44849" id="path846"/>

@@ -15,7 +15,7 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <ellipse ry="482" rx="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#00a3ff;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
+  <circle r="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#00a3ff;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
   <g id="g11" transform="matrix(1.24,0,0,1.24,-122.88,-218.36)">
     <path id="path958" d="M 512,864 V 514" style="fill:none;stroke:#00a3ff;stroke-width:100;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
     <circle style="fill:#00a3ff;fill-opacity:1;stroke:none;stroke-width:120;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000" id="path840" cx="512" cy="374" r="60"/>

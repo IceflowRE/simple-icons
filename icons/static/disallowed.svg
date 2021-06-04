@@ -15,6 +15,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <ellipse style="fill:none;stroke:#ff0000;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" rx="482" ry="482"/>
+  <circle style="fill:none;stroke:#ff0000;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" r="482"/>
   <path style="fill:none;stroke:#ff0000;stroke-width:120;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 759.48737,264.51263 264.51263,759.48737" id="path958"/>
 </svg>

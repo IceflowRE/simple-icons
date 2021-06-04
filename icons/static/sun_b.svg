@@ -20,7 +20,7 @@
     </rdf:RDF>
   </metadata>
   <circle style="fill:#ff7100;fill-opacity:1;stroke:none;stroke-width:128;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="path1208-5-7" cx="512" cy="512" r="192"/>
-  <ellipse ry="482" rx="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
+  <circle r="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
   <g id="g1509-4" transform="matrix(0.57142857,0,0,0.57142857,224.21429,314.82143)" style="stroke:none;stroke-width:131.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
   <circle style="fill:#ff7100;fill-opacity:1;stroke:none;stroke-width:32;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="path1208-3" cx="512" cy="230" r="32"/>
   <circle style="fill:#ff7100;fill-opacity:1;stroke:none;stroke-width:32;stroke-linecap:square;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="path1208-3-2" cx="723.11572" cy="307.70883" r="32"/>

@@ -16,6 +16,6 @@
     </rdf:RDF>
   </metadata>
   <path style="fill:#9cd838;fill-opacity:1;stroke:#000000;stroke-width:0.999996px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 512,512 H 335.16667" id="path855-4"/>
-  <ellipse style="fill:none;stroke:#9cd838;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" rx="482" ry="482"/>
+  <circle style="fill:none;stroke:#9cd838;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" r="482"/>
   <path d="M 395.1667,309.63873 745.6667,512 l -350.5,202.36128 z" id="path14-33-9" style="fill:#9cd838;fill-opacity:1;stroke:#9cd838;stroke-width:120;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
 </svg>

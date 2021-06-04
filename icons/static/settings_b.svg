@@ -24,5 +24,5 @@
   <path style="color:#000000;fill:#615cff;stroke-linecap:round" d="m 525.12501,687 a 120,120 0 0 1 6.875,40 120,120 0 0 1 -6.9492,40 h 226.9492 a 40,40 0 0 0 40,-40 40,40 0 0 0 -40,-40 z" id="path974"/>
   <path style="color:#000000;fill:#615cff;stroke-linecap:round" d="m 271.99999,687 a 40,40 0 0 0 -40,40 40,40 0 0 0 40,40 h 26.94922 a 120,120 0 0 1 -6.9492,-40 120,120 0 0 1 6.9492,-40 z" id="path958-2-7-5-5-7-5-9-6"/>
   <circle style="fill:#615cff;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="path1135-3-5-76-8-8-1-65" cx="411.99985" cy="727.00055" r="90"/>
-  <ellipse style="fill:none;stroke:#615cff;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" rx="482" ry="482"/>
+  <circle style="fill:none;stroke:#615cff;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" r="482"/>
 </svg>

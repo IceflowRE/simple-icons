@@ -18,5 +18,5 @@
   <rect style="fill:#ffab00;stroke-width:50;paint-order:fill markers stroke;stop-color:#000000" id="rect11-9-9-3" width="160" height="160" x="708" y="432"/>
   <rect style="fill:#ffab00;stroke-width:50;paint-order:fill markers stroke;stop-color:#000000" id="rect11-9-9-3-6" width="160" height="160" x="432" y="432"/>
   <rect style="fill:#ffab00;stroke-width:50;paint-order:fill markers stroke;stop-color:#000000" id="rect11-9-9-3-66" width="160" height="160" x="156" y="432"/>
-  <ellipse style="fill:none;stroke:#ffab00;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" rx="482" ry="482"/>
+  <circle style="fill:none;stroke:#ffab00;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" r="482"/>
 </svg>

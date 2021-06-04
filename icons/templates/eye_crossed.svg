@@ -26,7 +26,7 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <ellipse ry="482" rx="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
+  <circle r="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
   <path style="fill:none;fill-opacity:0.497976;stroke:#ff7100;stroke-width:64.00292486;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="path4949" sodipodi:type="arc" sodipodi:cx="603.58368" sodipodi:cy="25.182745" sodipodi:rx="388.56406" sodipodi:ry="385.543" sodipodi:start="0" sodipodi:end="2.0943951" sodipodi:arc-type="arc" sodipodi:open="true" transform="matrix(0.86937252,0.49415728,-0.50586556,0.86261233,0,0)" d="m 992.14774,25.182745 a 388.56406,385.543 0 0 1 -194.28203,333.890035 388.56406,385.543 0 0 1 -388.56406,0"/>
   <use x="0" y="0" xlink:href="#path4949" id="use5338" transform="matrix(0.99999998,0,0,-0.99999999,3.81188e-7,1024)" width="100%" height="100%" style="stroke:#ff7100;stroke-width:64.00000096;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"/>
   <circle style="fill:#ff7100;fill-opacity:1;stroke:none;stroke-width:64.0002;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000" id="path1086" cx="512" cy="512" r="96"/>

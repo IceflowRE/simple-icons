@@ -17,5 +17,5 @@
   </metadata>
   <path id="path854-3-2" style="fill:none;stroke:#ff7100;stroke-width:80;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" d="m 695.84774,695.84778 a 259.99997,260.00003 0 0 1 -367.69548,1e-5 259.99997,260.00003 0 0 1 -1e-5,-367.69557 259.99997,260.00003 0 0 1 367.69548,-10e-6"/>
   <path id="path30-8-5-4-7-7" style="fill:#ff7100;fill-opacity:1;stroke:#ff7100;stroke-width:37.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 795.27317,427.5777 795.12648,255.19076 622.88649,427.43075 Z"/>
-  <ellipse ry="482" rx="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
+  <circle r="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
 </svg>

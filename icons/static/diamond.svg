@@ -23,7 +23,7 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <ellipse style="fill:none;stroke:#b9f2ff;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" ry="482" rx="482"/>
+  <circle style="fill:none;stroke:#b9f2ff;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" r="482"/>
   <path style="fill:#b9f2ff;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 671.15275,452.47849 548.84985,832.55887 882.00005,452.47849 Z" id="path10906"/>
   <path style="fill:#b9f2ff;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 388.79685,452.47849 123.2011,382.87508 123.2053,-382.87508 z" id="path10904"/>
   <path style="fill:#b9f2ff;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 141.99995,452.47849 475.14605,832.55467 352.84525,452.47849 Z" id="path10902"/>

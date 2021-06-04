@@ -15,7 +15,7 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <ellipse style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" rx="482" ry="482"/>
+  <circle style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" r="482"/>
   <rect style="fill:#ff7100;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:fill markers stroke;stop-color:#000000" id="rect852" width="512" height="344" x="256" y="464" rx="96" ry="96"/>
   <rect style="fill:none;stroke:#ff7100;stroke-width:64;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="rect1430" width="256" height="376" x="384" y="184" rx="96" ry="96.000008"/>
   <rect style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:64;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="rect1890" width="96" height="192" x="464" y="540" rx="48" ry="48"/>

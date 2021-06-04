@@ -15,7 +15,7 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <ellipse ry="482" rx="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ffab00;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
+  <circle r="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ffab00;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
   <g id="g1509-4" transform="matrix(0.57142857,0,0,0.57142857,224.21429,314.82143)" style="stroke:none;stroke-width:131.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
   <path style="fill:none;stroke:#ffab00;stroke-width:48.97;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000" id="path840" d="M 443.73334,819.92172 382.18454,635.8929 201.2919,577.48029 l 184.02883,-61.5488 58.4126,-180.89264 61.5488,184.02882 180.89264,58.41261 -184.02882,61.5488 z" transform="matrix(0,0.81682483,-0.81682483,0,886.70018,246.54765)"/>
   <path style="fill:none;stroke:#ffab00;stroke-width:20;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000" id="path840-5-1" transform="scale(-1,1)" d="m -806.79089,630.22263 -19.85035,-72.38368 -71.37222,-18.83889 72.38368,-19.85035 18.83888,-71.37221 19.85036,72.38367 71.37221,18.83889 -72.38368,19.85035 z"/>

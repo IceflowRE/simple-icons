@@ -15,7 +15,7 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <ellipse ry="482" rx="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
+  <circle r="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
   <g id="g939" transform="rotate(45,551.88421,528.52057)" style="stroke-width:40;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ff7100;stroke-opacity:1">
     <rect style="fill:none;fill-opacity:1;stroke:#ff7100;stroke-width:40;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="rect900" width="150" height="530" x="437" y="191.36462" rx="50" ry="50"/>
     <path style="fill:none;stroke:#ff7100;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 437,777.29586 75,138.56404 75,-138.56404 v -470 H 437 Z" id="path935"/>
