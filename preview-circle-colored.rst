@@ -45,8 +45,10 @@ Click on the images to display it.
 |dsc065|  |dsc066|  |dsc067|  |dsc068|  |dsc069|
 |svg070|  |svg071|  |svg072|  |svg073|  |svg074|
 |dsc070|  |dsc071|  |dsc072|  |dsc073|  |dsc074|
-|svg075|  |svg076|  |svg077|  |svg078|
-|dsc075|  |dsc076|  |dsc077|  |dsc078|
+|svg075|  |svg076|  |svg077|  |svg078|  |svg079|
+|dsc075|  |dsc076|  |dsc077|  |dsc078|  |dsc079|
+|svg080|
+|dsc080|
 ========  ========  ========  ========  ========  
 
 
@@ -202,168 +204,176 @@ Click on the images to display it.
 .. |svg037| image:: icons/circle-colored/level_5.svg
     :width: 128px
     :target: icons/circle-colored/level_5.svg
-.. |dsc038| replace:: Lightbulb
-.. |svg038| image:: icons/circle-colored/lightbulb.svg
+.. |dsc038| replace:: Light Bulb
+.. |svg038| image:: icons/circle-colored/light_bulb.svg
     :width: 128px
-    :target: icons/circle-colored/lightbulb.svg
-.. |dsc039| replace:: Lock Locked
-.. |svg039| image:: icons/circle-colored/lock_locked.svg
+    :target: icons/circle-colored/light_bulb.svg
+.. |dsc039| replace:: Light Bulb Off
+.. |svg039| image:: icons/circle-colored/light_bulb_off.svg
+    :width: 128px
+    :target: icons/circle-colored/light_bulb_off.svg
+.. |dsc040| replace:: Light Bulb On
+.. |svg040| image:: icons/circle-colored/light_bulb_on.svg
+    :width: 128px
+    :target: icons/circle-colored/light_bulb_on.svg
+.. |dsc041| replace:: Lock Locked
+.. |svg041| image:: icons/circle-colored/lock_locked.svg
     :width: 128px
     :target: icons/circle-colored/lock_locked.svg
-.. |dsc040| replace:: Lock Unlocked
-.. |svg040| image:: icons/circle-colored/lock_unlocked.svg
+.. |dsc042| replace:: Lock Unlocked
+.. |svg042| image:: icons/circle-colored/lock_unlocked.svg
     :width: 128px
     :target: icons/circle-colored/lock_unlocked.svg
-.. |dsc041| replace:: Menu
-.. |svg041| image:: icons/circle-colored/menu.svg
+.. |dsc043| replace:: Menu
+.. |svg043| image:: icons/circle-colored/menu.svg
     :width: 128px
     :target: icons/circle-colored/menu.svg
-.. |dsc042| replace:: Microphone
-.. |svg042| image:: icons/circle-colored/microphone.svg
+.. |dsc044| replace:: Microphone
+.. |svg044| image:: icons/circle-colored/microphone.svg
     :width: 128px
     :target: icons/circle-colored/microphone.svg
-.. |dsc043| replace:: Moon
-.. |svg043| image:: icons/circle-colored/moon.svg
+.. |dsc045| replace:: Moon
+.. |svg045| image:: icons/circle-colored/moon.svg
     :width: 128px
     :target: icons/circle-colored/moon.svg
-.. |dsc044| replace:: Ok
-.. |svg044| image:: icons/circle-colored/ok.svg
+.. |dsc046| replace:: Ok
+.. |svg046| image:: icons/circle-colored/ok.svg
     :width: 128px
     :target: icons/circle-colored/ok.svg
-.. |dsc045| replace:: Particles
-.. |svg045| image:: icons/circle-colored/particles.svg
+.. |dsc047| replace:: Particles
+.. |svg047| image:: icons/circle-colored/particles.svg
     :width: 128px
     :target: icons/circle-colored/particles.svg
-.. |dsc046| replace:: Pause
-.. |svg046| image:: icons/circle-colored/pause.svg
+.. |dsc048| replace:: Pause
+.. |svg048| image:: icons/circle-colored/pause.svg
     :width: 128px
     :target: icons/circle-colored/pause.svg
-.. |dsc047| replace:: Paused
-.. |svg047| image:: icons/circle-colored/paused.svg
+.. |dsc049| replace:: Paused
+.. |svg049| image:: icons/circle-colored/paused.svg
     :width: 128px
     :target: icons/circle-colored/paused.svg
-.. |dsc048| replace:: Pen
-.. |svg048| image:: icons/circle-colored/pen.svg
+.. |dsc050| replace:: Pen
+.. |svg050| image:: icons/circle-colored/pen.svg
     :width: 128px
     :target: icons/circle-colored/pen.svg
-.. |dsc049| replace:: People
-.. |svg049| image:: icons/circle-colored/people.svg
+.. |dsc051| replace:: People
+.. |svg051| image:: icons/circle-colored/people.svg
     :width: 128px
     :target: icons/circle-colored/people.svg
-.. |dsc050| replace:: Power
-.. |svg050| image:: icons/circle-colored/power.svg
+.. |dsc052| replace:: Power
+.. |svg052| image:: icons/circle-colored/power.svg
     :width: 128px
     :target: icons/circle-colored/power.svg
-.. |dsc051| replace:: Profile
-.. |svg051| image:: icons/circle-colored/profile.svg
+.. |dsc053| replace:: Profile
+.. |svg053| image:: icons/circle-colored/profile.svg
     :width: 128px
     :target: icons/circle-colored/profile.svg
-.. |dsc052| replace:: Puzzle
-.. |svg052| image:: icons/circle-colored/puzzle.svg
+.. |dsc054| replace:: Puzzle
+.. |svg054| image:: icons/circle-colored/puzzle.svg
     :width: 128px
     :target: icons/circle-colored/puzzle.svg
-.. |dsc053| replace:: Question
-.. |svg053| image:: icons/circle-colored/question.svg
+.. |dsc055| replace:: Question
+.. |svg055| image:: icons/circle-colored/question.svg
     :width: 128px
     :target: icons/circle-colored/question.svg
-.. |dsc054| replace:: Record
-.. |svg054| image:: icons/circle-colored/record.svg
+.. |dsc056| replace:: Record
+.. |svg056| image:: icons/circle-colored/record.svg
     :width: 128px
     :target: icons/circle-colored/record.svg
-.. |dsc055| replace:: Reload Double
-.. |svg055| image:: icons/circle-colored/reload_double.svg
+.. |dsc057| replace:: Reload Double
+.. |svg057| image:: icons/circle-colored/reload_double.svg
     :width: 128px
     :target: icons/circle-colored/reload_double.svg
-.. |dsc056| replace:: Reload Double Quad
-.. |svg056| image:: icons/circle-colored/reload_double_quad.svg
+.. |dsc058| replace:: Reload Double Quad
+.. |svg058| image:: icons/circle-colored/reload_double_quad.svg
     :width: 128px
     :target: icons/circle-colored/reload_double_quad.svg
-.. |dsc057| replace:: Reload Single
-.. |svg057| image:: icons/circle-colored/reload_single.svg
+.. |dsc059| replace:: Reload Single
+.. |svg059| image:: icons/circle-colored/reload_single.svg
     :width: 128px
     :target: icons/circle-colored/reload_single.svg
-.. |dsc058| replace:: Reload Single Quad
-.. |svg058| image:: icons/circle-colored/reload_single_quad.svg
+.. |dsc060| replace:: Reload Single Quad
+.. |svg060| image:: icons/circle-colored/reload_single_quad.svg
     :width: 128px
     :target: icons/circle-colored/reload_single_quad.svg
-.. |dsc059| replace:: Remove
-.. |svg059| image:: icons/circle-colored/remove.svg
+.. |dsc061| replace:: Remove
+.. |svg061| image:: icons/circle-colored/remove.svg
     :width: 128px
     :target: icons/circle-colored/remove.svg
-.. |dsc060| replace:: Sandclock
-.. |svg060| image:: icons/circle-colored/sandclock.svg
+.. |dsc062| replace:: Sandclock
+.. |svg062| image:: icons/circle-colored/sandclock.svg
     :width: 128px
     :target: icons/circle-colored/sandclock.svg
-.. |dsc061| replace:: Search
-.. |svg061| image:: icons/circle-colored/search.svg
+.. |dsc063| replace:: Search
+.. |svg063| image:: icons/circle-colored/search.svg
     :width: 128px
     :target: icons/circle-colored/search.svg
-.. |dsc062| replace:: Search Quad
-.. |svg062| image:: icons/circle-colored/search_quad.svg
+.. |dsc064| replace:: Search Quad
+.. |svg064| image:: icons/circle-colored/search_quad.svg
     :width: 128px
     :target: icons/circle-colored/search_quad.svg
-.. |dsc063| replace:: Settings A
-.. |svg063| image:: icons/circle-colored/settings_a.svg
+.. |dsc065| replace:: Settings A
+.. |svg065| image:: icons/circle-colored/settings_a.svg
     :width: 128px
     :target: icons/circle-colored/settings_a.svg
-.. |dsc064| replace:: Settings B
-.. |svg064| image:: icons/circle-colored/settings_b.svg
+.. |dsc066| replace:: Settings B
+.. |svg066| image:: icons/circle-colored/settings_b.svg
     :width: 128px
     :target: icons/circle-colored/settings_b.svg
-.. |dsc065| replace:: Sleeping
-.. |svg065| image:: icons/circle-colored/sleeping.svg
+.. |dsc067| replace:: Sleeping
+.. |svg067| image:: icons/circle-colored/sleeping.svg
     :width: 128px
     :target: icons/circle-colored/sleeping.svg
-.. |dsc066| replace:: Snowflake
-.. |svg066| image:: icons/circle-colored/snowflake.svg
+.. |dsc068| replace:: Snowflake
+.. |svg068| image:: icons/circle-colored/snowflake.svg
     :width: 128px
     :target: icons/circle-colored/snowflake.svg
-.. |dsc067| replace:: Square
-.. |svg067| image:: icons/circle-colored/square.svg
+.. |dsc069| replace:: Square
+.. |svg069| image:: icons/circle-colored/square.svg
     :width: 128px
     :target: icons/circle-colored/square.svg
-.. |dsc068| replace:: Start
-.. |svg068| image:: icons/circle-colored/start.svg
+.. |dsc070| replace:: Start
+.. |svg070| image:: icons/circle-colored/start.svg
     :width: 128px
     :target: icons/circle-colored/start.svg
-.. |dsc069| replace:: Started
-.. |svg069| image:: icons/circle-colored/started.svg
+.. |dsc071| replace:: Started
+.. |svg071| image:: icons/circle-colored/started.svg
     :width: 128px
     :target: icons/circle-colored/started.svg
-.. |dsc070| replace:: Stop
-.. |svg070| image:: icons/circle-colored/stop.svg
+.. |dsc072| replace:: Stop
+.. |svg072| image:: icons/circle-colored/stop.svg
     :width: 128px
     :target: icons/circle-colored/stop.svg
-.. |dsc071| replace:: Stopped
-.. |svg071| image:: icons/circle-colored/stopped.svg
+.. |dsc073| replace:: Stopped
+.. |svg073| image:: icons/circle-colored/stopped.svg
     :width: 128px
     :target: icons/circle-colored/stopped.svg
-.. |dsc072| replace:: Sun A
-.. |svg072| image:: icons/circle-colored/sun_a.svg
+.. |dsc074| replace:: Sun A
+.. |svg074| image:: icons/circle-colored/sun_a.svg
     :width: 128px
     :target: icons/circle-colored/sun_a.svg
-.. |dsc073| replace:: Sun B
-.. |svg073| image:: icons/circle-colored/sun_b.svg
+.. |dsc075| replace:: Sun B
+.. |svg075| image:: icons/circle-colored/sun_b.svg
     :width: 128px
     :target: icons/circle-colored/sun_b.svg
-.. |dsc074| replace:: Text
-.. |svg074| image:: icons/circle-colored/text.svg
+.. |dsc076| replace:: Text
+.. |svg076| image:: icons/circle-colored/text.svg
     :width: 128px
     :target: icons/circle-colored/text.svg
-.. |dsc075| replace:: Voice
-.. |svg075| image:: icons/circle-colored/voice.svg
+.. |dsc077| replace:: Voice
+.. |svg077| image:: icons/circle-colored/voice.svg
     :width: 128px
     :target: icons/circle-colored/voice.svg
-.. |dsc076| replace:: Wait
-.. |svg076| image:: icons/circle-colored/wait.svg
+.. |dsc078| replace:: Wait
+.. |svg078| image:: icons/circle-colored/wait.svg
     :width: 128px
     :target: icons/circle-colored/wait.svg
-.. |dsc077| replace:: Wait Quad
-.. |svg077| image:: icons/circle-colored/wait_quad.svg
+.. |dsc079| replace:: Wait Quad
+.. |svg079| image:: icons/circle-colored/wait_quad.svg
     :width: 128px
     :target: icons/circle-colored/wait_quad.svg
-.. |dsc078| replace:: Warning
-.. |svg078| image:: icons/circle-colored/warning.svg
+.. |dsc080| replace:: Warning
+.. |svg080| image:: icons/circle-colored/warning.svg
     :width: 128px
     :target: icons/circle-colored/warning.svg
 
