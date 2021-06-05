@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" width="1024" height="1024" viewBox="0 0 1024 1024" version="1.1" id="svg8">
+  <path style="color:#000000;fill:#ffab00;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" d="M 757.69336,390.75586 C 738.60378,409.84555 719.54234,428.9068 700.44922,448 H 712 c 53.73748,0 96,42.26252 96,96 0,53.73748 -42.26252,96 -96,96 H 552 508.44922 c -21.33637,21.33633 -42.675,42.67509 -64,64 H 552 712 c 88.08637,0 160,-71.91363 160,-160 0,-72.21083 -48.35895,-133.4786 -114.30664,-153.24414 z" id="path2308"/>
+  <path style="color:#000000;fill:#ffab00;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke" d="M 520,192 C 436.53945,192 365.35678,245.40714 339.0293,320.12695 235.50663,322.78311 152,407.85243 152,512 c 0,105.81436 86.18564,192 192,192 h 9.94141 c 21.31454,-21.31442 42.67124,-42.67133 64,-64 H 344 c -71.46547,0 -128,-56.53453 -128,-128 0,-71.46547 56.53453,-128 128,-128 h 19.18359 a 32.00315,32.00315 0 0 0 31.36914,-25.67969 C 406.3487,299.76755 457.37688,256 520,256 c 71.46547,0 128,56.53453 128,128 0,7.74897 -0.72211,15.3692 -2.06445,22.88672 a 32.00315,32.00315 0 0 0 0.17383,4.94531 c 20.90055,-20.90064 41.76542,-41.7653 62.6621,-62.66211 C 692.31829,259.91534 613.91846,192 520,192 Z" id="rect928"/>
+  <defs id="defs2">
+    <inkscape:path-effect effect="spiro" id="path-effect3188" is_visible="true" lpeversion="1"/>
+  </defs>
+  <metadata id="metadata">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Iceflower S - iceflower@gmx.de</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <circle r="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ffab00;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
+  <path style="fill:none;stroke:#ffab00;stroke-width:48;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 257.44156,766.55844 766.55844,257.44156" id="path1555-5" inkscape:path-effect="#path-effect3188" inkscape:original-d="M 257.44156,766.55844 C 426.81323,597.18817 596.85426,427.14714 766.55844,257.44156"/>
+</svg>
