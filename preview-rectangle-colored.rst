@@ -55,6 +55,8 @@ Click on the images to display it.
 |dsc090|  |dsc091|  |dsc092|  |dsc093|  |dsc094|
 |svg095|  |svg096|  |svg097|  |svg098|  |svg099|
 |dsc095|  |dsc096|  |dsc097|  |dsc098|  |dsc099|
+|svg100|  |svg101|
+|dsc100|  |dsc101|
 ========  ========  ========  ========  ========  
 
 
@@ -398,64 +400,72 @@ Click on the images to display it.
 .. |svg084| image:: icons/rectangle-colored/square.svg
     :width: 128px
     :target: icons/rectangle-colored/square.svg
-.. |dsc085| replace:: Start
-.. |svg085| image:: icons/rectangle-colored/start.svg
+.. |dsc085| replace:: Star
+.. |svg085| image:: icons/rectangle-colored/star.svg
+    :width: 128px
+    :target: icons/rectangle-colored/star.svg
+.. |dsc086| replace:: Star Filled
+.. |svg086| image:: icons/rectangle-colored/star_filled.svg
+    :width: 128px
+    :target: icons/rectangle-colored/star_filled.svg
+.. |dsc087| replace:: Start
+.. |svg087| image:: icons/rectangle-colored/start.svg
     :width: 128px
     :target: icons/rectangle-colored/start.svg
-.. |dsc086| replace:: Started
-.. |svg086| image:: icons/rectangle-colored/started.svg
+.. |dsc088| replace:: Started
+.. |svg088| image:: icons/rectangle-colored/started.svg
     :width: 128px
     :target: icons/rectangle-colored/started.svg
-.. |dsc087| replace:: Stop
-.. |svg087| image:: icons/rectangle-colored/stop.svg
+.. |dsc089| replace:: Stop
+.. |svg089| image:: icons/rectangle-colored/stop.svg
     :width: 128px
     :target: icons/rectangle-colored/stop.svg
-.. |dsc088| replace:: Stopped
-.. |svg088| image:: icons/rectangle-colored/stopped.svg
+.. |dsc090| replace:: Stopped
+.. |svg090| image:: icons/rectangle-colored/stopped.svg
     :width: 128px
     :target: icons/rectangle-colored/stopped.svg
-.. |dsc089| replace:: Sun
-.. |svg089| image:: icons/rectangle-colored/sun.svg
+.. |dsc091| replace:: Sun
+.. |svg091| image:: icons/rectangle-colored/sun.svg
     :width: 128px
     :target: icons/rectangle-colored/sun.svg
-.. |dsc090| replace:: Sun 02
-.. |svg090| image:: icons/rectangle-colored/sun-02.svg
+.. |dsc092| replace:: Sun 02
+.. |svg092| image:: icons/rectangle-colored/sun-02.svg
     :width: 128px
     :target: icons/rectangle-colored/sun-02.svg
-.. |dsc091| replace:: Text
-.. |svg091| image:: icons/rectangle-colored/text.svg
+.. |dsc093| replace:: Text
+.. |svg093| image:: icons/rectangle-colored/text.svg
     :width: 128px
     :target: icons/rectangle-colored/text.svg
-.. |dsc092| replace:: Upload
-.. |svg092| image:: icons/rectangle-colored/upload.svg
+.. |dsc094| replace:: Upload
+.. |svg094| image:: icons/rectangle-colored/upload.svg
     :width: 128px
     :target: icons/rectangle-colored/upload.svg
-.. |dsc093| replace:: Upload 02
-.. |svg093| image:: icons/rectangle-colored/upload-02.svg
+.. |dsc095| replace:: Upload 02
+.. |svg095| image:: icons/rectangle-colored/upload-02.svg
     :width: 128px
     :target: icons/rectangle-colored/upload-02.svg
-.. |dsc094| replace:: Upload 02 Quad
-.. |svg094| image:: icons/rectangle-colored/upload-02-quad.svg
+.. |dsc096| replace:: Upload 02 Quad
+.. |svg096| image:: icons/rectangle-colored/upload-02-quad.svg
     :width: 128px
     :target: icons/rectangle-colored/upload-02-quad.svg
-.. |dsc095| replace:: Upload Quad
-.. |svg095| image:: icons/rectangle-colored/upload_quad.svg
+.. |dsc097| replace:: Upload Quad
+.. |svg097| image:: icons/rectangle-colored/upload_quad.svg
     :width: 128px
     :target: icons/rectangle-colored/upload_quad.svg
-.. |dsc096| replace:: Voice
-.. |svg096| image:: icons/rectangle-colored/voice.svg
+.. |dsc098| replace:: Voice
+.. |svg098| image:: icons/rectangle-colored/voice.svg
     :width: 128px
     :target: icons/rectangle-colored/voice.svg
-.. |dsc097| replace:: Wait
-.. |svg097| image:: icons/rectangle-colored/wait.svg
+.. |dsc099| replace:: Wait
+.. |svg099| image:: icons/rectangle-colored/wait.svg
     :width: 128px
     :target: icons/rectangle-colored/wait.svg
-.. |dsc098| replace:: Wait Quad
-.. |svg098| image:: icons/rectangle-colored/wait_quad.svg
+.. |dsc100| replace:: Wait Quad
+.. |svg100| image:: icons/rectangle-colored/wait_quad.svg
     :width: 128px
     :target: icons/rectangle-colored/wait_quad.svg
-.. |dsc099| replace:: Warning
-.. |svg099| image:: icons/rectangle-colored/warning.svg
+.. |dsc101| replace:: Warning
+.. |svg101| image:: icons/rectangle-colored/warning.svg
     :width: 128px
     :target: icons/rectangle-colored/warning.svg
 
