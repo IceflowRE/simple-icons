@@ -29,7 +29,7 @@ if __name__ == '__main__':
         if path == icon_path:
             continue
 
-        items = [preview.PreviewItem(file.relative_to(preview_path), str(file.relative_to(path))[:-4].replace("_", " ").title()) for file in
+        items = [preview.PreviewItem(file.relative_to(preview_path), str(file.relative_to(path))[:-4].replace("_", " ").replace("-", " ").title()) for file in
                  path.glob('**/*.svg')]
         items.sort(key=lambda val: val.name)
         table = preview.generate_overview_table(items, 5)
