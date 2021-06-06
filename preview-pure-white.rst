@@ -66,50 +66,50 @@ Click on the images to display it.
 .. |svg001| image:: icons/pure-white/arrow_down.svg
     :width: 128px
     :target: icons/pure-white/arrow_down.svg
-.. |dsc002| replace:: Arrow Down Quad
-.. |svg002| image:: icons/pure-white/arrow_down_quad.svg
-    :width: 128px
-    :target: icons/pure-white/arrow_down_quad.svg
-.. |dsc003| replace:: Arrow Down-02
-.. |svg003| image:: icons/pure-white/arrow_down-02.svg
+.. |dsc002| replace:: Arrow Down 02
+.. |svg002| image:: icons/pure-white/arrow_down-02.svg
     :width: 128px
     :target: icons/pure-white/arrow_down-02.svg
+.. |dsc003| replace:: Arrow Down Quad
+.. |svg003| image:: icons/pure-white/arrow_down_quad.svg
+    :width: 128px
+    :target: icons/pure-white/arrow_down_quad.svg
 .. |dsc004| replace:: Arrow Left
 .. |svg004| image:: icons/pure-white/arrow_left.svg
     :width: 128px
     :target: icons/pure-white/arrow_left.svg
-.. |dsc005| replace:: Arrow Left Quad
-.. |svg005| image:: icons/pure-white/arrow_left_quad.svg
-    :width: 128px
-    :target: icons/pure-white/arrow_left_quad.svg
-.. |dsc006| replace:: Arrow Left-02
-.. |svg006| image:: icons/pure-white/arrow_left-02.svg
+.. |dsc005| replace:: Arrow Left 02
+.. |svg005| image:: icons/pure-white/arrow_left-02.svg
     :width: 128px
     :target: icons/pure-white/arrow_left-02.svg
+.. |dsc006| replace:: Arrow Left Quad
+.. |svg006| image:: icons/pure-white/arrow_left_quad.svg
+    :width: 128px
+    :target: icons/pure-white/arrow_left_quad.svg
 .. |dsc007| replace:: Arrow Right
 .. |svg007| image:: icons/pure-white/arrow_right.svg
     :width: 128px
     :target: icons/pure-white/arrow_right.svg
-.. |dsc008| replace:: Arrow Right Quad
-.. |svg008| image:: icons/pure-white/arrow_right_quad.svg
-    :width: 128px
-    :target: icons/pure-white/arrow_right_quad.svg
-.. |dsc009| replace:: Arrow Right-02
-.. |svg009| image:: icons/pure-white/arrow_right-02.svg
+.. |dsc008| replace:: Arrow Right 02
+.. |svg008| image:: icons/pure-white/arrow_right-02.svg
     :width: 128px
     :target: icons/pure-white/arrow_right-02.svg
+.. |dsc009| replace:: Arrow Right Quad
+.. |svg009| image:: icons/pure-white/arrow_right_quad.svg
+    :width: 128px
+    :target: icons/pure-white/arrow_right_quad.svg
 .. |dsc010| replace:: Arrow Up
 .. |svg010| image:: icons/pure-white/arrow_up.svg
     :width: 128px
     :target: icons/pure-white/arrow_up.svg
-.. |dsc011| replace:: Arrow Up Quad
-.. |svg011| image:: icons/pure-white/arrow_up_quad.svg
-    :width: 128px
-    :target: icons/pure-white/arrow_up_quad.svg
-.. |dsc012| replace:: Arrow Up-02
-.. |svg012| image:: icons/pure-white/arrow_up-02.svg
+.. |dsc011| replace:: Arrow Up 02
+.. |svg011| image:: icons/pure-white/arrow_up-02.svg
     :width: 128px
     :target: icons/pure-white/arrow_up-02.svg
+.. |dsc012| replace:: Arrow Up Quad
+.. |svg012| image:: icons/pure-white/arrow_up_quad.svg
+    :width: 128px
+    :target: icons/pure-white/arrow_up_quad.svg
 .. |dsc013| replace:: Audio 0
 .. |svg013| image:: icons/pure-white/audio_0.svg
     :width: 128px
@@ -182,18 +182,18 @@ Click on the images to display it.
 .. |svg030| image:: icons/pure-white/download.svg
     :width: 128px
     :target: icons/pure-white/download.svg
-.. |dsc031| replace:: Download Quad
-.. |svg031| image:: icons/pure-white/download_quad.svg
-    :width: 128px
-    :target: icons/pure-white/download_quad.svg
-.. |dsc032| replace:: Download-02
-.. |svg032| image:: icons/pure-white/download-02.svg
+.. |dsc031| replace:: Download 02
+.. |svg031| image:: icons/pure-white/download-02.svg
     :width: 128px
     :target: icons/pure-white/download-02.svg
-.. |dsc033| replace:: Download-02-Quad
-.. |svg033| image:: icons/pure-white/download-02-quad.svg
+.. |dsc032| replace:: Download 02 Quad
+.. |svg032| image:: icons/pure-white/download-02-quad.svg
     :width: 128px
     :target: icons/pure-white/download-02-quad.svg
+.. |dsc033| replace:: Download Quad
+.. |svg033| image:: icons/pure-white/download_quad.svg
+    :width: 128px
+    :target: icons/pure-white/download_quad.svg
 .. |dsc034| replace:: Emerald
 .. |svg034| image:: icons/pure-white/emerald.svg
     :width: 128px
@@ -234,7 +234,7 @@ Click on the images to display it.
 .. |svg043| image:: icons/pure-white/info.svg
     :width: 128px
     :target: icons/pure-white/info.svg
-.. |dsc044| replace:: Info-02
+.. |dsc044| replace:: Info 02
 .. |svg044| image:: icons/pure-white/info-02.svg
     :width: 128px
     :target: icons/pure-white/info-02.svg
@@ -374,7 +374,7 @@ Click on the images to display it.
 .. |svg078| image:: icons/pure-white/settings.svg
     :width: 128px
     :target: icons/pure-white/settings.svg
-.. |dsc079| replace:: Settings-02
+.. |dsc079| replace:: Settings 02
 .. |svg079| image:: icons/pure-white/settings-02.svg
     :width: 128px
     :target: icons/pure-white/settings-02.svg
@@ -382,7 +382,7 @@ Click on the images to display it.
 .. |svg080| image:: icons/pure-white/share.svg
     :width: 128px
     :target: icons/pure-white/share.svg
-.. |dsc081| replace:: Share-02
+.. |dsc081| replace:: Share 02
 .. |svg081| image:: icons/pure-white/share-02.svg
     :width: 128px
     :target: icons/pure-white/share-02.svg
@@ -418,7 +418,7 @@ Click on the images to display it.
 .. |svg089| image:: icons/pure-white/sun.svg
     :width: 128px
     :target: icons/pure-white/sun.svg
-.. |dsc090| replace:: Sun-02
+.. |dsc090| replace:: Sun 02
 .. |svg090| image:: icons/pure-white/sun-02.svg
     :width: 128px
     :target: icons/pure-white/sun-02.svg
@@ -430,18 +430,18 @@ Click on the images to display it.
 .. |svg092| image:: icons/pure-white/upload.svg
     :width: 128px
     :target: icons/pure-white/upload.svg
-.. |dsc093| replace:: Upload Quad
-.. |svg093| image:: icons/pure-white/upload_quad.svg
-    :width: 128px
-    :target: icons/pure-white/upload_quad.svg
-.. |dsc094| replace:: Upload-02
-.. |svg094| image:: icons/pure-white/upload-02.svg
+.. |dsc093| replace:: Upload 02
+.. |svg093| image:: icons/pure-white/upload-02.svg
     :width: 128px
     :target: icons/pure-white/upload-02.svg
-.. |dsc095| replace:: Upload-02-Quad
-.. |svg095| image:: icons/pure-white/upload-02-quad.svg
+.. |dsc094| replace:: Upload 02 Quad
+.. |svg094| image:: icons/pure-white/upload-02-quad.svg
     :width: 128px
     :target: icons/pure-white/upload-02-quad.svg
+.. |dsc095| replace:: Upload Quad
+.. |svg095| image:: icons/pure-white/upload_quad.svg
+    :width: 128px
+    :target: icons/pure-white/upload_quad.svg
 .. |dsc096| replace:: Voice
 .. |svg096| image:: icons/pure-white/voice.svg
     :width: 128px
