@@ -15,9 +15,10 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <circle style="fill:#ffab00;fill-opacity:1;stroke:none;stroke-width:120.001;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.740891;stop-color:#000000" id="path2959-1" cx="512" cy="826.03949" r="72"/>
   <g id="layer1" transform="translate(0,-32.416615)"/>
   <circle style="fill:none;stroke:#ffab00;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" r="482"/>
-  <path id="path1481-7-5" style="fill:none;stroke:#ffab00;stroke-width:120;stroke-linecap:butt;stop-color:#000000" d="m 512.00003,676.03952 c 0,-62.52148 33.3548,-120.2937 87.5,-151.55444 54.1452,-31.26074 87.5,-89.03297 87.5,-151.55445 0,-79.20599 -53.1996,-148.537 -129.7067,-169.03702 -76.5071,-20.50001 -157.2448,12.94263 -196.8477,81.53703" sodipodi:nodetypes="cccsc"/>
-  <circle style="fill:#ffab00;fill-opacity:1;stroke-width:100;stroke-linecap:round;stroke-opacity:0.465587;stop-color:#000000" id="path1369" cx="360.44562" cy="285.43063" r="60"/>
+  <g id="g887" transform="translate(-24.000002,17.999999)">
+    <rect style="fill:#ffab00;fill-opacity:1;stroke:none;stroke-width:120;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;stop-color:#000000" id="rect15" width="120" height="120" x="437" y="742"/>
+    <path style="fill:none;stroke:#ffab00;stroke-width:120;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 497,652 V 469.5 H 677 V 222 H 347" id="path958-4"/>
+  </g>
 </svg>
