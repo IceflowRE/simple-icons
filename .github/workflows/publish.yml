@@ -58,7 +58,7 @@ jobs:
 
       - name: Release icons
         run: |
-          gh release delete latest --y
+          gh release delete latest -y
           gh release create latest ./gen/archives/* -n "${{ env.NOTES }}" -t "Latest Iceflower Simple Icons"
         env:
           GITHUB_TOKEN: ${{ github.token }}
