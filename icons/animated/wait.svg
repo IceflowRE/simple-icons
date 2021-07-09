@@ -26,35 +26,14 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <style id="style1">
-#dot_1 {animation: dot_1_anim 1000ms linear infinite normal forwards}
-@keyframes dot_1_anim {
-    0% {opacity: 0}
-    20% {opacity: 1}
-    40% {opacity: 0}
-    100% {opacity: 0}
-}
-
-#dot_2 {animation: dot_2_anim 1000ms linear infinite normal forwards}
-@keyframes dot_2_anim {
-    0% {opacity: 0}
-    15% {opacity: 0}
-    35% {opacity: 1}
-    55% {opacity: 0}
-    100% {opacity: 0}
-}
-
-#dot_3 {animation: dot_3_anim 1000ms linear infinite normal forwards}
-@keyframes dot_3_anim {
-    0% {opacity: 0}
-    30% {opacity: 0}
-    50% {opacity: 1}
-    70% {opacity: 0}
-    100% {opacity: 0}
-}
-</style>
   <circle style="fill:none;stroke:#ffab00;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="circle" cx="512" cy="512" r="482"/>
-  <circle style="fill:#ffab00;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="dot_1" cx="236" cy="512" r="100"/>
-  <circle r="100" cy="512" cx="512" id="dot_2" style="fill:#ffab00;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
-  <circle r="100" cy="512" cx="788" id="dot_3" style="fill:#ffab00;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
+  <circle style="fill:#ffab00;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="dot_1" cx="236" cy="512" r="100">
+    <animate attributeName="opacity" attributeType="XML" dur="1s" repeatCount="indefinite" values="0; 1; 0; 0" keyTimes="0; 0.2; 0.4; 1"/>
+  </circle>
+  <circle r="100" cy="512" cx="512" id="dot_2" style="fill:#ffab00;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000">
+    <animate attributeName="opacity" attributeType="XML" dur="1s" repeatCount="indefinite" values="0; 0; 1; 0; 0" keyTimes="0; 0.15; 0.35; 0.55; 1"/>
+  </circle>
+  <circle r="100" cy="512" cx="788" id="dot_3" style="fill:#ffab00;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000">
+    <animate attributeName="opacity" attributeType="XML" dur="1s" repeatCount="indefinite" values="0; 0; 1; 0; 0" keyTimes="0; 0.30; 0.50; 0.70; 1"/>
+  </circle>
 </svg>
