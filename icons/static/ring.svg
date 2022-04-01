@@ -16,5 +16,5 @@
     </rdf:RDF>
   </metadata>
   <circle r="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#c8a2c8;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" />
-  <circle style="fill:#c8a2c8;fill-opacity:1;stroke:none;stroke-width:152;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="path16" cx="512" cy="512" r="332" />
+  <circle style="fill:none;stroke:#c8a2c8;stroke-width:152;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="path16" cx="512" cy="512" r="256" />
 </svg>
