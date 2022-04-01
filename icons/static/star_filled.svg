@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" width="1024" height="1024" viewBox="0 0 1024 1024" version="1.1" id="svg8">
-  <defs id="defs2"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="1024" height="1024" viewBox="0 0 1024 1024" version="1.1" id="svg8">
+  <defs id="defs2" />
   <metadata id="metadata">
     <rdf:RDF>
       <cc:Work rdf:about="">
         <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:creator>
           <cc:Agent>
             <dc:title>Iceflower S - iceflower@gmx.de</dc:title>
@@ -15,6 +15,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <circle r="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"/>
-  <path sodipodi:type="star" style="fill:#ff7100;fill-opacity:1;stroke:#ff7100;stroke-width:67.4099;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="path1570-8" inkscape:flatsided="false" sodipodi:sides="5" sodipodi:cx="493.29572" sodipodi:cy="507.71957" sodipodi:r1="324.45508" sodipodi:r2="162.22755" sodipodi:arg1="0.95993109" sodipodi:arg2="1.5882496" inkscape:rounded="0" inkscape:randomized="0" inkscape:transform-center-y="-29.411685" transform="matrix(0.94939292,-0.01656745,0.0165717,0.94914892,35.254762,36.700141)" d="M 679.3955,773.49761 490.46446,669.92242 298.03377,766.84092 338.15673,555.15032 186.51741,402.08733 400.24581,374.83054 498.95824,183.31391 590.92669,378.15889 803.57365,412.85809 646.68488,560.5357 Z" inkscape:transform-center-x="-1.5496892e-06"/>
+  <circle r="482" cy="512" cx="512" id="circle" style="fill:none;stroke:#ff7100;stroke-width:60;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" />
+  <path sodipodi:type="star" style="fill:#ff7100;fill-opacity:1;stroke:#ff7100;stroke-width:67.4099;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="path1570-8" inkscape:flatsided="false" sodipodi:sides="5" sodipodi:cx="493.29572" sodipodi:cy="507.71957" sodipodi:r1="324.45508" sodipodi:r2="162.22755" sodipodi:arg1="0.95993109" sodipodi:arg2="1.5882496" inkscape:rounded="0" inkscape:randomized="0" inkscape:transform-center-y="-29.411685" transform="matrix(0.94939292,-0.01656745,0.0165717,0.94914892,35.254762,36.700141)" d="M 679.3955,773.49761 490.46446,669.92242 298.03377,766.84092 338.15673,555.15032 186.51741,402.08733 400.24581,374.83054 498.95824,183.31391 590.92669,378.15889 803.57365,412.85809 646.68488,560.5357 Z" inkscape:transform-center-x="-1.5496892e-06" />
 </svg>
