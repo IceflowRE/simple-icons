@@ -24,7 +24,6 @@ setup(
     packages=find_packages(include=['symbconv', 'symbconv.*']),
     python_requires='>=3.9',
     install_requires=[
-        "lxml",
         "scour",
         "tqdm",
     ],

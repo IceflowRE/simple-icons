@@ -1,16 +1,17 @@
 import re
+import traceback
+import xml.etree.ElementTree as ET
 from enum import Enum, auto
 from pathlib import Path
 
-from lxml import etree
 from tqdm import tqdm
 
 
 class EditActions(Enum):
-    CLEAN_UP = auto()  # removes not required inkscape entries
-    REMOVE_CIRCLE = auto()
     ADD_RECT = auto()
+    CLEAN_UP = auto()  # removes not required inkscape entries
     MAKE_WHITE = auto()
+    REMOVE_CIRCLE = auto()
 
 
 def edit_svg_batch(paths: list[tuple[Path, Path]], actions: list[EditActions], desc: str) -> bool:
@@ -21,9 +22,9 @@ def edit_svg_batch(paths: list[tuple[Path, Path]], actions: list[EditActions], d
     for source, output in tqdm(paths, total=len(paths), desc=desc, unit='svg', mininterval=1, ncols=100, disable=False):
         try:
             edit_svg(source, output, actions)
-        except Exception as ex:
+        except Exception:
             success = False
-            tqdm.write(f"Failed to apply changes to '{source}': {str(ex)}")
+            tqdm.write(f"Failed to apply changes to '{source}': {str(traceback.format_exc())}")
     return success
 
 
@@ -35,31 +36,46 @@ def edit_svg(source: Path, output: Path, actions: list[EditActions]):
     if source == output and actions != [EditActions.CLEAN_UP]:
         raise ValueError("source file cannot be the same as the output file.")
 
-    tree = etree.parse(str(source))
+    def reg_namespace():
+        ET.register_namespace("cc", "http://creativecommons.org/ns#")
+        ET.register_namespace("dc", "http://purl.org/dc/elements/1.1/")
+        ET.register_namespace("inkscape", "http://www.inkscape.org/namespaces/inkscape")
+        ET.register_namespace("rdf", "http://www.w3.org/1999/02/22-rdf-syntax-ns#")
+        ET.register_namespace("sodipodi", "http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd")
+        ET.register_namespace("svg", "http://www.w3.org/2000/svg")
+        ET.register_namespace("xlink", "http://www.w3.org/1999/xlink")
+        ET.register_namespace("", "http://www.w3.org/2000/svg")
 
-    color = get_color(tree)
-    if color is None:
-        raise Exception(f"{source} does not contain a circle")
+    reg_namespace()
+    tree = ET.parse(source)
+
+    color = None
+    if any(action in actions for action in [EditActions.MAKE_WHITE, EditActions.ADD_RECT]):
+        color = get_color(tree)
+        if color is None:
+            raise Exception(f"{source} does not contain a circle")
 
     for action in actions:
-        if action == EditActions.CLEAN_UP:
-            clean_up(tree)
-        elif action == EditActions.REMOVE_CIRCLE:
-            remove_circle(tree)
-        elif action == EditActions.ADD_RECT:
+        if action == EditActions.ADD_RECT:
             add_rounded_rect(tree, color)
+        elif action == EditActions.CLEAN_UP:
+            clean_up(tree)
         elif action == EditActions.MAKE_WHITE:
             make_colored(tree, color, "#ffffff")
+        elif action == EditActions.REMOVE_CIRCLE:
+            remove_circle(tree)
 
     output.parent.mkdir(parents=True, exist_ok=True)
-    tree.write(str(output), pretty_print=True, xml_declaration=False, method='xml', encoding='UTF-8',
-               doctype='<?xml version="1.0" encoding="UTF-8" standalone="no"?>')
+    with output.open('wb') as writer:
+        writer.write(b'<?xml version="1.0" encoding="UTF-8" standalone="no"?>\n')
+        tree.write(writer, xml_declaration=False, method='xml', encoding='UTF-8')
+        writer.write(b'\n')
 
 
 RX_COLOR: re.Pattern = re.compile(r"stroke:(#[a-fA-F\d]{6})")
 
 
-def get_color(tree: etree.ElementTree) -> str:
+def get_color(tree: ET.ElementTree) -> str:
     """
     Get the color of the outer circle.
     """
@@ -68,9 +84,10 @@ def get_color(tree: etree.ElementTree) -> str:
             match = RX_COLOR.search(child.attrib['style'])
             if match is not None:
                 return match.group(1)
+    raise RuntimeError("Could not find color.")
 
 
-def clean_up(tree: etree.ElementTree):
+def clean_up(tree: ET.ElementTree):
     root = tree.getroot()
     root.attrib.pop("{http://www.inkscape.org/namespaces/inkscape}version", None)
     root.attrib.pop("{http://www.inkscape.org/namespaces/inkscape}export-filename", None)
@@ -82,7 +99,7 @@ def clean_up(tree: etree.ElementTree):
         root.remove(namedview)
 
 
-def remove_circle(tree: etree.ElementTree):
+def remove_circle(tree: ET.ElementTree):
     """
     Remove the circle.
     """
@@ -93,12 +110,12 @@ def remove_circle(tree: etree.ElementTree):
             break
 
 
-def add_rounded_rect(tree: etree.ElementTree, color: str):
+def add_rounded_rect(tree: ET.ElementTree, color: str):
     """
     Add a rounded rectangle.
     """
     root = tree.getroot()
-    rect = etree.Element('rect')
+    rect = ET.Element('rect')
     rect.attrib['id'] = "rect"
     rect.attrib['style'] = f"fill:none;stroke:{color};stroke-width:60;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
     rect.attrib['width'] = "964"
@@ -111,7 +128,7 @@ def add_rounded_rect(tree: etree.ElementTree, color: str):
     root.append(rect)
 
 
-def make_colored(tree: etree.ElementTree, origin_color: str, new_color: str):
+def make_colored(tree: ET.ElementTree, origin_color: str, new_color: str):
     """
     Makes the svg white.
     """
