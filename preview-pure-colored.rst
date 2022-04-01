@@ -61,6 +61,10 @@ Click on the images to display it.
 |dsc105|  |dsc106|  |dsc107|  |dsc108|  |dsc109|
 |svg110|  |svg111|  |svg112|  |svg113|  |svg114|
 |dsc110|  |dsc111|  |dsc112|  |dsc113|  |dsc114|
+|svg115|  |svg116|  |svg117|  |svg118|  |svg119|
+|dsc115|  |dsc116|  |dsc117|  |dsc118|  |dsc119|
+|svg120|  |svg121|  |svg122|
+|dsc120|  |dsc121|  |dsc122|
 ========  ========  ========  ========  ========  
 
 
@@ -68,460 +72,492 @@ Click on the images to display it.
 .. |svg000| image:: icons/pure-colored/add.svg
     :width: 128px
     :target: icons/pure-colored/add.svg
-.. |dsc001| replace:: Arrow Down
-.. |svg001| image:: icons/pure-colored/arrow_down.svg
+.. |dsc001| replace:: Arrow Double Down
+.. |svg001| image:: icons/pure-colored/arrow_double_down.svg
+    :width: 128px
+    :target: icons/pure-colored/arrow_double_down.svg
+.. |dsc002| replace:: Arrow Double Left
+.. |svg002| image:: icons/pure-colored/arrow_double_left.svg
+    :width: 128px
+    :target: icons/pure-colored/arrow_double_left.svg
+.. |dsc003| replace:: Arrow Double Right
+.. |svg003| image:: icons/pure-colored/arrow_double_right.svg
+    :width: 128px
+    :target: icons/pure-colored/arrow_double_right.svg
+.. |dsc004| replace:: Arrow Double Up
+.. |svg004| image:: icons/pure-colored/arrow_double_up.svg
+    :width: 128px
+    :target: icons/pure-colored/arrow_double_up.svg
+.. |dsc005| replace:: Arrow Down
+.. |svg005| image:: icons/pure-colored/arrow_down.svg
     :width: 128px
     :target: icons/pure-colored/arrow_down.svg
-.. |dsc002| replace:: Arrow Down 02
-.. |svg002| image:: icons/pure-colored/arrow_down-02.svg
+.. |dsc006| replace:: Arrow Down 02
+.. |svg006| image:: icons/pure-colored/arrow_down-02.svg
     :width: 128px
     :target: icons/pure-colored/arrow_down-02.svg
-.. |dsc003| replace:: Arrow Down Quad
-.. |svg003| image:: icons/pure-colored/arrow_down_quad.svg
+.. |dsc007| replace:: Arrow Down Quad
+.. |svg007| image:: icons/pure-colored/arrow_down_quad.svg
     :width: 128px
     :target: icons/pure-colored/arrow_down_quad.svg
-.. |dsc004| replace:: Arrow Left
-.. |svg004| image:: icons/pure-colored/arrow_left.svg
+.. |dsc008| replace:: Arrow Left
+.. |svg008| image:: icons/pure-colored/arrow_left.svg
     :width: 128px
     :target: icons/pure-colored/arrow_left.svg
-.. |dsc005| replace:: Arrow Left 02
-.. |svg005| image:: icons/pure-colored/arrow_left-02.svg
+.. |dsc009| replace:: Arrow Left 02
+.. |svg009| image:: icons/pure-colored/arrow_left-02.svg
     :width: 128px
     :target: icons/pure-colored/arrow_left-02.svg
-.. |dsc006| replace:: Arrow Left Quad
-.. |svg006| image:: icons/pure-colored/arrow_left_quad.svg
+.. |dsc010| replace:: Arrow Left Quad
+.. |svg010| image:: icons/pure-colored/arrow_left_quad.svg
     :width: 128px
     :target: icons/pure-colored/arrow_left_quad.svg
-.. |dsc007| replace:: Arrow Right
-.. |svg007| image:: icons/pure-colored/arrow_right.svg
+.. |dsc011| replace:: Arrow Right
+.. |svg011| image:: icons/pure-colored/arrow_right.svg
     :width: 128px
     :target: icons/pure-colored/arrow_right.svg
-.. |dsc008| replace:: Arrow Right 02
-.. |svg008| image:: icons/pure-colored/arrow_right-02.svg
+.. |dsc012| replace:: Arrow Right 02
+.. |svg012| image:: icons/pure-colored/arrow_right-02.svg
     :width: 128px
     :target: icons/pure-colored/arrow_right-02.svg
-.. |dsc009| replace:: Arrow Right Quad
-.. |svg009| image:: icons/pure-colored/arrow_right_quad.svg
+.. |dsc013| replace:: Arrow Right Quad
+.. |svg013| image:: icons/pure-colored/arrow_right_quad.svg
     :width: 128px
     :target: icons/pure-colored/arrow_right_quad.svg
-.. |dsc010| replace:: Arrow Up
-.. |svg010| image:: icons/pure-colored/arrow_up.svg
+.. |dsc014| replace:: Arrow Up
+.. |svg014| image:: icons/pure-colored/arrow_up.svg
     :width: 128px
     :target: icons/pure-colored/arrow_up.svg
-.. |dsc011| replace:: Arrow Up 02
-.. |svg011| image:: icons/pure-colored/arrow_up-02.svg
+.. |dsc015| replace:: Arrow Up 02
+.. |svg015| image:: icons/pure-colored/arrow_up-02.svg
     :width: 128px
     :target: icons/pure-colored/arrow_up-02.svg
-.. |dsc012| replace:: Arrow Up Quad
-.. |svg012| image:: icons/pure-colored/arrow_up_quad.svg
+.. |dsc016| replace:: Arrow Up Quad
+.. |svg016| image:: icons/pure-colored/arrow_up_quad.svg
     :width: 128px
     :target: icons/pure-colored/arrow_up_quad.svg
-.. |dsc013| replace:: Audio 0
-.. |svg013| image:: icons/pure-colored/audio_0.svg
+.. |dsc017| replace:: Audio 0
+.. |svg017| image:: icons/pure-colored/audio_0.svg
     :width: 128px
     :target: icons/pure-colored/audio_0.svg
-.. |dsc014| replace:: Audio 0 Quad
-.. |svg014| image:: icons/pure-colored/audio_0_quad.svg
+.. |dsc018| replace:: Audio 0 Quad
+.. |svg018| image:: icons/pure-colored/audio_0_quad.svg
     :width: 128px
     :target: icons/pure-colored/audio_0_quad.svg
-.. |dsc015| replace:: Audio 1
-.. |svg015| image:: icons/pure-colored/audio_1.svg
+.. |dsc019| replace:: Audio 1
+.. |svg019| image:: icons/pure-colored/audio_1.svg
     :width: 128px
     :target: icons/pure-colored/audio_1.svg
-.. |dsc016| replace:: Audio 1 Quad
-.. |svg016| image:: icons/pure-colored/audio_1_quad.svg
+.. |dsc020| replace:: Audio 1 Quad
+.. |svg020| image:: icons/pure-colored/audio_1_quad.svg
     :width: 128px
     :target: icons/pure-colored/audio_1_quad.svg
-.. |dsc017| replace:: Audio 2
-.. |svg017| image:: icons/pure-colored/audio_2.svg
+.. |dsc021| replace:: Audio 2
+.. |svg021| image:: icons/pure-colored/audio_2.svg
     :width: 128px
     :target: icons/pure-colored/audio_2.svg
-.. |dsc018| replace:: Audio 2 Quad
-.. |svg018| image:: icons/pure-colored/audio_2_quad.svg
+.. |dsc022| replace:: Audio 2 Quad
+.. |svg022| image:: icons/pure-colored/audio_2_quad.svg
     :width: 128px
     :target: icons/pure-colored/audio_2_quad.svg
-.. |dsc019| replace:: Audio 3
-.. |svg019| image:: icons/pure-colored/audio_3.svg
+.. |dsc023| replace:: Audio 3
+.. |svg023| image:: icons/pure-colored/audio_3.svg
     :width: 128px
     :target: icons/pure-colored/audio_3.svg
-.. |dsc020| replace:: Audio 3 Quad
-.. |svg020| image:: icons/pure-colored/audio_3_quad.svg
+.. |dsc024| replace:: Audio 3 Quad
+.. |svg024| image:: icons/pure-colored/audio_3_quad.svg
     :width: 128px
     :target: icons/pure-colored/audio_3_quad.svg
-.. |dsc021| replace:: Backward
-.. |svg021| image:: icons/pure-colored/backward.svg
+.. |dsc025| replace:: Backward
+.. |svg025| image:: icons/pure-colored/backward.svg
     :width: 128px
     :target: icons/pure-colored/backward.svg
-.. |dsc022| replace:: Brightness
-.. |svg022| image:: icons/pure-colored/brightness.svg
+.. |dsc026| replace:: Brightness
+.. |svg026| image:: icons/pure-colored/brightness.svg
     :width: 128px
     :target: icons/pure-colored/brightness.svg
-.. |dsc023| replace:: Cancel
-.. |svg023| image:: icons/pure-colored/cancel.svg
+.. |dsc027| replace:: Cancel
+.. |svg027| image:: icons/pure-colored/cancel.svg
     :width: 128px
     :target: icons/pure-colored/cancel.svg
-.. |dsc024| replace:: Chat
-.. |svg024| image:: icons/pure-colored/chat.svg
+.. |dsc028| replace:: Chat
+.. |svg028| image:: icons/pure-colored/chat.svg
     :width: 128px
     :target: icons/pure-colored/chat.svg
-.. |dsc025| replace:: Circle
-.. |svg025| image:: icons/pure-colored/circle.svg
+.. |dsc029| replace:: Circle
+.. |svg029| image:: icons/pure-colored/circle.svg
     :width: 128px
     :target: icons/pure-colored/circle.svg
-.. |dsc026| replace:: Cloud
-.. |svg026| image:: icons/pure-colored/cloud.svg
+.. |dsc030| replace:: Cloud
+.. |svg030| image:: icons/pure-colored/cloud.svg
     :width: 128px
     :target: icons/pure-colored/cloud.svg
-.. |dsc027| replace:: Cloud Crossed
-.. |svg027| image:: icons/pure-colored/cloud_crossed.svg
+.. |dsc031| replace:: Cloud Crossed
+.. |svg031| image:: icons/pure-colored/cloud_crossed.svg
     :width: 128px
     :target: icons/pure-colored/cloud_crossed.svg
-.. |dsc028| replace:: Cup
-.. |svg028| image:: icons/pure-colored/cup.svg
+.. |dsc032| replace:: Cup
+.. |svg032| image:: icons/pure-colored/cup.svg
     :width: 128px
     :target: icons/pure-colored/cup.svg
-.. |dsc029| replace:: Diamond
-.. |svg029| image:: icons/pure-colored/diamond.svg
+.. |dsc033| replace:: Diamond
+.. |svg033| image:: icons/pure-colored/diamond.svg
     :width: 128px
     :target: icons/pure-colored/diamond.svg
-.. |dsc030| replace:: Disallowed
-.. |svg030| image:: icons/pure-colored/disallowed.svg
+.. |dsc034| replace:: Disallowed
+.. |svg034| image:: icons/pure-colored/disallowed.svg
     :width: 128px
     :target: icons/pure-colored/disallowed.svg
-.. |dsc031| replace:: Download
-.. |svg031| image:: icons/pure-colored/download.svg
+.. |dsc035| replace:: Download
+.. |svg035| image:: icons/pure-colored/download.svg
     :width: 128px
     :target: icons/pure-colored/download.svg
-.. |dsc032| replace:: Download 02
-.. |svg032| image:: icons/pure-colored/download-02.svg
+.. |dsc036| replace:: Download 02
+.. |svg036| image:: icons/pure-colored/download-02.svg
     :width: 128px
     :target: icons/pure-colored/download-02.svg
-.. |dsc033| replace:: Download 02 Quad
-.. |svg033| image:: icons/pure-colored/download-02-quad.svg
+.. |dsc037| replace:: Download 02 Quad
+.. |svg037| image:: icons/pure-colored/download-02-quad.svg
     :width: 128px
     :target: icons/pure-colored/download-02-quad.svg
-.. |dsc034| replace:: Download Quad
-.. |svg034| image:: icons/pure-colored/download_quad.svg
+.. |dsc038| replace:: Download Quad
+.. |svg038| image:: icons/pure-colored/download_quad.svg
     :width: 128px
     :target: icons/pure-colored/download_quad.svg
-.. |dsc035| replace:: Emerald
-.. |svg035| image:: icons/pure-colored/emerald.svg
+.. |dsc039| replace:: Emerald
+.. |svg039| image:: icons/pure-colored/emerald.svg
     :width: 128px
     :target: icons/pure-colored/emerald.svg
-.. |dsc036| replace:: Error
-.. |svg036| image:: icons/pure-colored/error.svg
+.. |dsc040| replace:: Error
+.. |svg040| image:: icons/pure-colored/error.svg
     :width: 128px
     :target: icons/pure-colored/error.svg
-.. |dsc037| replace:: Eye Crossed
-.. |svg037| image:: icons/pure-colored/eye_crossed.svg
+.. |dsc041| replace:: Exit
+.. |svg041| image:: icons/pure-colored/exit.svg
+    :width: 128px
+    :target: icons/pure-colored/exit.svg
+.. |dsc042| replace:: Exit Quad
+.. |svg042| image:: icons/pure-colored/exit_quad.svg
+    :width: 128px
+    :target: icons/pure-colored/exit_quad.svg
+.. |dsc043| replace:: Eye Crossed
+.. |svg043| image:: icons/pure-colored/eye_crossed.svg
     :width: 128px
     :target: icons/pure-colored/eye_crossed.svg
-.. |dsc038| replace:: Eye Open
-.. |svg038| image:: icons/pure-colored/eye_open.svg
+.. |dsc044| replace:: Eye Open
+.. |svg044| image:: icons/pure-colored/eye_open.svg
     :width: 128px
     :target: icons/pure-colored/eye_open.svg
-.. |dsc039| replace:: Flag
-.. |svg039| image:: icons/pure-colored/flag.svg
+.. |dsc045| replace:: Flag
+.. |svg045| image:: icons/pure-colored/flag.svg
     :width: 128px
     :target: icons/pure-colored/flag.svg
-.. |dsc040| replace:: Flag 02
-.. |svg040| image:: icons/pure-colored/flag-02.svg
+.. |dsc046| replace:: Flag 02
+.. |svg046| image:: icons/pure-colored/flag-02.svg
     :width: 128px
     :target: icons/pure-colored/flag-02.svg
-.. |dsc041| replace:: Forward
-.. |svg041| image:: icons/pure-colored/forward.svg
+.. |dsc047| replace:: Forward
+.. |svg047| image:: icons/pure-colored/forward.svg
     :width: 128px
     :target: icons/pure-colored/forward.svg
-.. |dsc042| replace:: Heart
-.. |svg042| image:: icons/pure-colored/heart.svg
+.. |dsc048| replace:: Heart
+.. |svg048| image:: icons/pure-colored/heart.svg
     :width: 128px
     :target: icons/pure-colored/heart.svg
-.. |dsc043| replace:: Heart Filled
-.. |svg043| image:: icons/pure-colored/heart_filled.svg
+.. |dsc049| replace:: Heart Filled
+.. |svg049| image:: icons/pure-colored/heart_filled.svg
     :width: 128px
     :target: icons/pure-colored/heart_filled.svg
-.. |dsc044| replace:: Hexagon
-.. |svg044| image:: icons/pure-colored/hexagon.svg
+.. |dsc050| replace:: Hexagon
+.. |svg050| image:: icons/pure-colored/hexagon.svg
     :width: 128px
     :target: icons/pure-colored/hexagon.svg
-.. |dsc045| replace:: Home
-.. |svg045| image:: icons/pure-colored/home.svg
+.. |dsc051| replace:: Home
+.. |svg051| image:: icons/pure-colored/home.svg
     :width: 128px
     :target: icons/pure-colored/home.svg
-.. |dsc046| replace:: Hyperlink
-.. |svg046| image:: icons/pure-colored/hyperlink.svg
+.. |dsc052| replace:: Hyperlink
+.. |svg052| image:: icons/pure-colored/hyperlink.svg
     :width: 128px
     :target: icons/pure-colored/hyperlink.svg
-.. |dsc047| replace:: Hyperlink 02
-.. |svg047| image:: icons/pure-colored/hyperlink-02.svg
+.. |dsc053| replace:: Hyperlink 02
+.. |svg053| image:: icons/pure-colored/hyperlink-02.svg
     :width: 128px
     :target: icons/pure-colored/hyperlink-02.svg
-.. |dsc048| replace:: Info
-.. |svg048| image:: icons/pure-colored/info.svg
+.. |dsc054| replace:: Info
+.. |svg054| image:: icons/pure-colored/info.svg
     :width: 128px
     :target: icons/pure-colored/info.svg
-.. |dsc049| replace:: Info 02
-.. |svg049| image:: icons/pure-colored/info-02.svg
+.. |dsc055| replace:: Info 02
+.. |svg055| image:: icons/pure-colored/info-02.svg
     :width: 128px
     :target: icons/pure-colored/info-02.svg
-.. |dsc050| replace:: Level 0
-.. |svg050| image:: icons/pure-colored/level_0.svg
+.. |dsc056| replace:: Level 0
+.. |svg056| image:: icons/pure-colored/level_0.svg
     :width: 128px
     :target: icons/pure-colored/level_0.svg
-.. |dsc051| replace:: Level 1
-.. |svg051| image:: icons/pure-colored/level_1.svg
+.. |dsc057| replace:: Level 1
+.. |svg057| image:: icons/pure-colored/level_1.svg
     :width: 128px
     :target: icons/pure-colored/level_1.svg
-.. |dsc052| replace:: Level 2
-.. |svg052| image:: icons/pure-colored/level_2.svg
+.. |dsc058| replace:: Level 2
+.. |svg058| image:: icons/pure-colored/level_2.svg
     :width: 128px
     :target: icons/pure-colored/level_2.svg
-.. |dsc053| replace:: Level 3
-.. |svg053| image:: icons/pure-colored/level_3.svg
+.. |dsc059| replace:: Level 3
+.. |svg059| image:: icons/pure-colored/level_3.svg
     :width: 128px
     :target: icons/pure-colored/level_3.svg
-.. |dsc054| replace:: Level 4
-.. |svg054| image:: icons/pure-colored/level_4.svg
+.. |dsc060| replace:: Level 4
+.. |svg060| image:: icons/pure-colored/level_4.svg
     :width: 128px
     :target: icons/pure-colored/level_4.svg
-.. |dsc055| replace:: Level 5
-.. |svg055| image:: icons/pure-colored/level_5.svg
+.. |dsc061| replace:: Level 5
+.. |svg061| image:: icons/pure-colored/level_5.svg
     :width: 128px
     :target: icons/pure-colored/level_5.svg
-.. |dsc056| replace:: Light Bulb
-.. |svg056| image:: icons/pure-colored/light_bulb.svg
+.. |dsc062| replace:: Light Bulb
+.. |svg062| image:: icons/pure-colored/light_bulb.svg
     :width: 128px
     :target: icons/pure-colored/light_bulb.svg
-.. |dsc057| replace:: Light Bulb Off
-.. |svg057| image:: icons/pure-colored/light_bulb_off.svg
+.. |dsc063| replace:: Light Bulb Off
+.. |svg063| image:: icons/pure-colored/light_bulb_off.svg
     :width: 128px
     :target: icons/pure-colored/light_bulb_off.svg
-.. |dsc058| replace:: Light Bulb On
-.. |svg058| image:: icons/pure-colored/light_bulb_on.svg
+.. |dsc064| replace:: Light Bulb On
+.. |svg064| image:: icons/pure-colored/light_bulb_on.svg
     :width: 128px
     :target: icons/pure-colored/light_bulb_on.svg
-.. |dsc059| replace:: Lock Locked
-.. |svg059| image:: icons/pure-colored/lock_locked.svg
+.. |dsc065| replace:: Lock Locked
+.. |svg065| image:: icons/pure-colored/lock_locked.svg
     :width: 128px
     :target: icons/pure-colored/lock_locked.svg
-.. |dsc060| replace:: Lock Unlocked
-.. |svg060| image:: icons/pure-colored/lock_unlocked.svg
+.. |dsc066| replace:: Lock Unlocked
+.. |svg066| image:: icons/pure-colored/lock_unlocked.svg
     :width: 128px
     :target: icons/pure-colored/lock_unlocked.svg
-.. |dsc061| replace:: Menu
-.. |svg061| image:: icons/pure-colored/menu.svg
+.. |dsc067| replace:: Menu
+.. |svg067| image:: icons/pure-colored/menu.svg
     :width: 128px
     :target: icons/pure-colored/menu.svg
-.. |dsc062| replace:: Microphone
-.. |svg062| image:: icons/pure-colored/microphone.svg
+.. |dsc068| replace:: Menu 02
+.. |svg068| image:: icons/pure-colored/menu-02.svg
+    :width: 128px
+    :target: icons/pure-colored/menu-02.svg
+.. |dsc069| replace:: Microphone
+.. |svg069| image:: icons/pure-colored/microphone.svg
     :width: 128px
     :target: icons/pure-colored/microphone.svg
-.. |dsc063| replace:: Moon
-.. |svg063| image:: icons/pure-colored/moon.svg
+.. |dsc070| replace:: Moon
+.. |svg070| image:: icons/pure-colored/moon.svg
     :width: 128px
     :target: icons/pure-colored/moon.svg
-.. |dsc064| replace:: Ok
-.. |svg064| image:: icons/pure-colored/ok.svg
+.. |dsc071| replace:: Ok
+.. |svg071| image:: icons/pure-colored/ok.svg
     :width: 128px
     :target: icons/pure-colored/ok.svg
-.. |dsc065| replace:: Particles
-.. |svg065| image:: icons/pure-colored/particles.svg
+.. |dsc072| replace:: Particles
+.. |svg072| image:: icons/pure-colored/particles.svg
     :width: 128px
     :target: icons/pure-colored/particles.svg
-.. |dsc066| replace:: Pause
-.. |svg066| image:: icons/pure-colored/pause.svg
+.. |dsc073| replace:: Pause
+.. |svg073| image:: icons/pure-colored/pause.svg
     :width: 128px
     :target: icons/pure-colored/pause.svg
-.. |dsc067| replace:: Paused
-.. |svg067| image:: icons/pure-colored/paused.svg
+.. |dsc074| replace:: Paused
+.. |svg074| image:: icons/pure-colored/paused.svg
     :width: 128px
     :target: icons/pure-colored/paused.svg
-.. |dsc068| replace:: Pen
-.. |svg068| image:: icons/pure-colored/pen.svg
+.. |dsc075| replace:: Pen
+.. |svg075| image:: icons/pure-colored/pen.svg
     :width: 128px
     :target: icons/pure-colored/pen.svg
-.. |dsc069| replace:: People
-.. |svg069| image:: icons/pure-colored/people.svg
+.. |dsc076| replace:: People
+.. |svg076| image:: icons/pure-colored/people.svg
     :width: 128px
     :target: icons/pure-colored/people.svg
-.. |dsc070| replace:: Power
-.. |svg070| image:: icons/pure-colored/power.svg
+.. |dsc077| replace:: Power
+.. |svg077| image:: icons/pure-colored/power.svg
     :width: 128px
     :target: icons/pure-colored/power.svg
-.. |dsc071| replace:: Profile
-.. |svg071| image:: icons/pure-colored/profile.svg
+.. |dsc078| replace:: Profile
+.. |svg078| image:: icons/pure-colored/profile.svg
     :width: 128px
     :target: icons/pure-colored/profile.svg
-.. |dsc072| replace:: Puzzle
-.. |svg072| image:: icons/pure-colored/puzzle.svg
+.. |dsc079| replace:: Puzzle
+.. |svg079| image:: icons/pure-colored/puzzle.svg
     :width: 128px
     :target: icons/pure-colored/puzzle.svg
-.. |dsc073| replace:: Question
-.. |svg073| image:: icons/pure-colored/question.svg
+.. |dsc080| replace:: Question
+.. |svg080| image:: icons/pure-colored/question.svg
     :width: 128px
     :target: icons/pure-colored/question.svg
-.. |dsc074| replace:: Question Quad
-.. |svg074| image:: icons/pure-colored/question_quad.svg
+.. |dsc081| replace:: Question Quad
+.. |svg081| image:: icons/pure-colored/question_quad.svg
     :width: 128px
     :target: icons/pure-colored/question_quad.svg
-.. |dsc075| replace:: Record
-.. |svg075| image:: icons/pure-colored/record.svg
+.. |dsc082| replace:: Record
+.. |svg082| image:: icons/pure-colored/record.svg
     :width: 128px
     :target: icons/pure-colored/record.svg
-.. |dsc076| replace:: Reload Double
-.. |svg076| image:: icons/pure-colored/reload_double.svg
+.. |dsc083| replace:: Reload Double
+.. |svg083| image:: icons/pure-colored/reload_double.svg
     :width: 128px
     :target: icons/pure-colored/reload_double.svg
-.. |dsc077| replace:: Reload Double Quad
-.. |svg077| image:: icons/pure-colored/reload_double_quad.svg
+.. |dsc084| replace:: Reload Double Quad
+.. |svg084| image:: icons/pure-colored/reload_double_quad.svg
     :width: 128px
     :target: icons/pure-colored/reload_double_quad.svg
-.. |dsc078| replace:: Reload Single
-.. |svg078| image:: icons/pure-colored/reload_single.svg
+.. |dsc085| replace:: Reload Single
+.. |svg085| image:: icons/pure-colored/reload_single.svg
     :width: 128px
     :target: icons/pure-colored/reload_single.svg
-.. |dsc079| replace:: Reload Single Quad
-.. |svg079| image:: icons/pure-colored/reload_single_quad.svg
+.. |dsc086| replace:: Reload Single Quad
+.. |svg086| image:: icons/pure-colored/reload_single_quad.svg
     :width: 128px
     :target: icons/pure-colored/reload_single_quad.svg
-.. |dsc080| replace:: Remove
-.. |svg080| image:: icons/pure-colored/remove.svg
+.. |dsc087| replace:: Remove
+.. |svg087| image:: icons/pure-colored/remove.svg
     :width: 128px
     :target: icons/pure-colored/remove.svg
-.. |dsc081| replace:: Sandclock
-.. |svg081| image:: icons/pure-colored/sandclock.svg
+.. |dsc088| replace:: Ring
+.. |svg088| image:: icons/pure-colored/ring.svg
+    :width: 128px
+    :target: icons/pure-colored/ring.svg
+.. |dsc089| replace:: Sandclock
+.. |svg089| image:: icons/pure-colored/sandclock.svg
     :width: 128px
     :target: icons/pure-colored/sandclock.svg
-.. |dsc082| replace:: Search
-.. |svg082| image:: icons/pure-colored/search.svg
+.. |dsc090| replace:: Search
+.. |svg090| image:: icons/pure-colored/search.svg
     :width: 128px
     :target: icons/pure-colored/search.svg
-.. |dsc083| replace:: Search Quad
-.. |svg083| image:: icons/pure-colored/search_quad.svg
+.. |dsc091| replace:: Search Quad
+.. |svg091| image:: icons/pure-colored/search_quad.svg
     :width: 128px
     :target: icons/pure-colored/search_quad.svg
-.. |dsc084| replace:: Settings
-.. |svg084| image:: icons/pure-colored/settings.svg
+.. |dsc092| replace:: Settings
+.. |svg092| image:: icons/pure-colored/settings.svg
     :width: 128px
     :target: icons/pure-colored/settings.svg
-.. |dsc085| replace:: Settings 02
-.. |svg085| image:: icons/pure-colored/settings-02.svg
+.. |dsc093| replace:: Settings 02
+.. |svg093| image:: icons/pure-colored/settings-02.svg
     :width: 128px
     :target: icons/pure-colored/settings-02.svg
-.. |dsc086| replace:: Share
-.. |svg086| image:: icons/pure-colored/share.svg
+.. |dsc094| replace:: Share
+.. |svg094| image:: icons/pure-colored/share.svg
     :width: 128px
     :target: icons/pure-colored/share.svg
-.. |dsc087| replace:: Share 02
-.. |svg087| image:: icons/pure-colored/share-02.svg
+.. |dsc095| replace:: Share 02
+.. |svg095| image:: icons/pure-colored/share-02.svg
     :width: 128px
     :target: icons/pure-colored/share-02.svg
-.. |dsc088| replace:: Sleeping
-.. |svg088| image:: icons/pure-colored/sleeping.svg
+.. |dsc096| replace:: Sleeping
+.. |svg096| image:: icons/pure-colored/sleeping.svg
     :width: 128px
     :target: icons/pure-colored/sleeping.svg
-.. |dsc089| replace:: Snowflake
-.. |svg089| image:: icons/pure-colored/snowflake.svg
+.. |dsc097| replace:: Snowflake
+.. |svg097| image:: icons/pure-colored/snowflake.svg
     :width: 128px
     :target: icons/pure-colored/snowflake.svg
-.. |dsc090| replace:: Square
-.. |svg090| image:: icons/pure-colored/square.svg
+.. |dsc098| replace:: Square
+.. |svg098| image:: icons/pure-colored/square.svg
     :width: 128px
     :target: icons/pure-colored/square.svg
-.. |dsc091| replace:: Star
-.. |svg091| image:: icons/pure-colored/star.svg
+.. |dsc099| replace:: Star
+.. |svg099| image:: icons/pure-colored/star.svg
     :width: 128px
     :target: icons/pure-colored/star.svg
-.. |dsc092| replace:: Star Filled
-.. |svg092| image:: icons/pure-colored/star_filled.svg
+.. |dsc100| replace:: Star Filled
+.. |svg100| image:: icons/pure-colored/star_filled.svg
     :width: 128px
     :target: icons/pure-colored/star_filled.svg
-.. |dsc093| replace:: Star Topology
-.. |svg093| image:: icons/pure-colored/star_topology.svg
+.. |dsc101| replace:: Star Topology
+.. |svg101| image:: icons/pure-colored/star_topology.svg
     :width: 128px
     :target: icons/pure-colored/star_topology.svg
-.. |dsc094| replace:: Start
-.. |svg094| image:: icons/pure-colored/start.svg
+.. |dsc102| replace:: Start
+.. |svg102| image:: icons/pure-colored/start.svg
     :width: 128px
     :target: icons/pure-colored/start.svg
-.. |dsc095| replace:: Started
-.. |svg095| image:: icons/pure-colored/started.svg
+.. |dsc103| replace:: Started
+.. |svg103| image:: icons/pure-colored/started.svg
     :width: 128px
     :target: icons/pure-colored/started.svg
-.. |dsc096| replace:: Stop
-.. |svg096| image:: icons/pure-colored/stop.svg
+.. |dsc104| replace:: Stop
+.. |svg104| image:: icons/pure-colored/stop.svg
     :width: 128px
     :target: icons/pure-colored/stop.svg
-.. |dsc097| replace:: Stopped
-.. |svg097| image:: icons/pure-colored/stopped.svg
+.. |dsc105| replace:: Stopped
+.. |svg105| image:: icons/pure-colored/stopped.svg
     :width: 128px
     :target: icons/pure-colored/stopped.svg
-.. |dsc098| replace:: Sun
-.. |svg098| image:: icons/pure-colored/sun.svg
+.. |dsc106| replace:: Sun
+.. |svg106| image:: icons/pure-colored/sun.svg
     :width: 128px
     :target: icons/pure-colored/sun.svg
-.. |dsc099| replace:: Sun 02
-.. |svg099| image:: icons/pure-colored/sun-02.svg
+.. |dsc107| replace:: Sun 02
+.. |svg107| image:: icons/pure-colored/sun-02.svg
     :width: 128px
     :target: icons/pure-colored/sun-02.svg
-.. |dsc100| replace:: Text
-.. |svg100| image:: icons/pure-colored/text.svg
+.. |dsc108| replace:: Text
+.. |svg108| image:: icons/pure-colored/text.svg
     :width: 128px
     :target: icons/pure-colored/text.svg
-.. |dsc101| replace:: Toggle Off 01
-.. |svg101| image:: icons/pure-colored/toggle_off-01.svg
+.. |dsc109| replace:: Toggle Off 01
+.. |svg109| image:: icons/pure-colored/toggle_off-01.svg
     :width: 128px
     :target: icons/pure-colored/toggle_off-01.svg
-.. |dsc102| replace:: Toggle Off 02
-.. |svg102| image:: icons/pure-colored/toggle_off-02.svg
+.. |dsc110| replace:: Toggle Off 02
+.. |svg110| image:: icons/pure-colored/toggle_off-02.svg
     :width: 128px
     :target: icons/pure-colored/toggle_off-02.svg
-.. |dsc103| replace:: Toggle Off 03
-.. |svg103| image:: icons/pure-colored/toggle_off-03.svg
+.. |dsc111| replace:: Toggle Off 03
+.. |svg111| image:: icons/pure-colored/toggle_off-03.svg
     :width: 128px
     :target: icons/pure-colored/toggle_off-03.svg
-.. |dsc104| replace:: Toggle On 01
-.. |svg104| image:: icons/pure-colored/toggle_on-01.svg
+.. |dsc112| replace:: Toggle On 01
+.. |svg112| image:: icons/pure-colored/toggle_on-01.svg
     :width: 128px
     :target: icons/pure-colored/toggle_on-01.svg
-.. |dsc105| replace:: Toggle On 02
-.. |svg105| image:: icons/pure-colored/toggle_on-02.svg
+.. |dsc113| replace:: Toggle On 02
+.. |svg113| image:: icons/pure-colored/toggle_on-02.svg
     :width: 128px
     :target: icons/pure-colored/toggle_on-02.svg
-.. |dsc106| replace:: Toggle On 03
-.. |svg106| image:: icons/pure-colored/toggle_on-03.svg
+.. |dsc114| replace:: Toggle On 03
+.. |svg114| image:: icons/pure-colored/toggle_on-03.svg
     :width: 128px
     :target: icons/pure-colored/toggle_on-03.svg
-.. |dsc107| replace:: Upload
-.. |svg107| image:: icons/pure-colored/upload.svg
+.. |dsc115| replace:: Upload
+.. |svg115| image:: icons/pure-colored/upload.svg
     :width: 128px
     :target: icons/pure-colored/upload.svg
-.. |dsc108| replace:: Upload 02
-.. |svg108| image:: icons/pure-colored/upload-02.svg
+.. |dsc116| replace:: Upload 02
+.. |svg116| image:: icons/pure-colored/upload-02.svg
     :width: 128px
     :target: icons/pure-colored/upload-02.svg
-.. |dsc109| replace:: Upload 02 Quad
-.. |svg109| image:: icons/pure-colored/upload-02-quad.svg
+.. |dsc117| replace:: Upload 02 Quad
+.. |svg117| image:: icons/pure-colored/upload-02-quad.svg
     :width: 128px
     :target: icons/pure-colored/upload-02-quad.svg
-.. |dsc110| replace:: Upload Quad
-.. |svg110| image:: icons/pure-colored/upload_quad.svg
+.. |dsc118| replace:: Upload Quad
+.. |svg118| image:: icons/pure-colored/upload_quad.svg
     :width: 128px
     :target: icons/pure-colored/upload_quad.svg
-.. |dsc111| replace:: Voice
-.. |svg111| image:: icons/pure-colored/voice.svg
+.. |dsc119| replace:: Voice
+.. |svg119| image:: icons/pure-colored/voice.svg
     :width: 128px
     :target: icons/pure-colored/voice.svg
-.. |dsc112| replace:: Wait
-.. |svg112| image:: icons/pure-colored/wait.svg
+.. |dsc120| replace:: Wait
+.. |svg120| image:: icons/pure-colored/wait.svg
     :width: 128px
     :target: icons/pure-colored/wait.svg
-.. |dsc113| replace:: Wait Quad
-.. |svg113| image:: icons/pure-colored/wait_quad.svg
+.. |dsc121| replace:: Wait Quad
+.. |svg121| image:: icons/pure-colored/wait_quad.svg
     :width: 128px
     :target: icons/pure-colored/wait_quad.svg
-.. |dsc114| replace:: Warning
-.. |svg114| image:: icons/pure-colored/warning.svg
+.. |dsc122| replace:: Warning
+.. |svg122| image:: icons/pure-colored/warning.svg
     :width: 128px
     :target: icons/pure-colored/warning.svg
 
