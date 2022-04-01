@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" id="svg8" version="1.1" viewBox="0 0 740 440" height="440" width="740">
+  <defs id="defs9" />
+  <metadata id="metadata">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Iceflower S - iceflower@gmx.de</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rect style="fill:none;fill-opacity:0.50403225;stroke:#ff7100;stroke-width:48;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" id="rect953" width="692" height="392" x="24" y="24" rx="200" ry="200" />
+  <circle cy="220" cx="220" id="circle6-1-6-6" style="fill:#ff7100;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000" r="124.00001">
+    <animate id="rightAnim" begin="triggerRightAnim.click" dur="0.25s" attributeName="cx" values="220; 520" fill="freeze" />
+    <animate id="leftAnim" begin="triggerLeftAnim.click" dur="0.25s" attributeName="cx" values="520; 220" fill="freeze" />
+  </circle>
+  <rect style="fill:#007199;fill-opacity:0;stroke:#007199;stroke-width:48;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:fill markers stroke;stop-color:#000000" id="triggerLeftAnim" width="692" height="392" x="23.999969" y="24" rx="200" ry="200" display="none">
+    <set attributeName="display" to="none" begin="triggerLeftAnim.click" />
+    <set attributeName="display" to="block" begin="rightAnim.end" />
+  </rect>
+  <rect style="fill:#ff7199;fill-opacity:0;stroke:#ff7199;stroke-width:48;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:fill markers stroke;stop-color:#000000" id="triggerRightAnim" width="692" height="392" x="23.999969" y="24" rx="200" ry="200" display="block">
+    <set attributeName="display" to="none" begin="triggerRightAnim.click" />
+    <set attributeName="display" to="block" begin="leftAnim.end" />
+  </rect>
+</svg>
