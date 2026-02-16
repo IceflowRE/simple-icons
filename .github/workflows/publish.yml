@@ -20,13 +20,16 @@ jobs:
 
       - name: Update environment
         run: |
-          curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | gpg --dearmor -o /usr/share/keyrings/githubcli-archive-keyring.gpg
-          echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | tee /etc/apt/sources.list.d/github-cli.list > /dev/null
           apt update -qq
-          apt install -y git zip gh
+          apt install -y zip
 
       - name: Checkout
         uses: actions/checkout@v6
+
+      - name: Fix git ownership
+        run: |
+          # this is to fix GIT not liking owner of the checkout dir
+          chown -R $(id -u):$(id -g) $PWD
 
       - name: Install symbconv
         run: |
@@ -70,21 +73,28 @@ jobs:
     runs-on: ubuntu-latest
     container: python:latest
     steps:
-      - name: Update environment
-        run: |
-          apt update -qq
-          apt install -y git
-
       - name: Checkout main
         uses: actions/checkout@v6
         with:
           path: ${{ env.main_git_path }}
+
+      - name: Fix git ownership
+        working-directory: ${{ env.main_git_path }}
+        run: |
+          # this is to fix GIT not liking owner of the checkout dir
+          chown -R $(id -u):$(id -g) $PWD
 
       - name: Checkout preview
         uses: actions/checkout@v6
         with:
           ref: 'preview'
           path: ${{ env.preview_git_path }}
+
+      - name: Fix git ownership
+        working-directory: ${{ env.preview_git_path }}
+        run: |
+          # this is to fix GIT not liking owner of the checkout dir
+          chown -R $(id -u):$(id -g) $PWD
 
       - name: Install symbconv
         working-directory: ${{ env.main_git_path }}
