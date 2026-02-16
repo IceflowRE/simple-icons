@@ -16,9 +16,7 @@ jobs:
     container: python:latest
     steps:
       - name: Cancel Previous Runs
-        uses: styfle/cancel-workflow-action@0.9.1
-        with:
-          access_token: ${{ github.token }}
+        uses: styfle/cancel-workflow-action@0.13.0
 
       - name: Update environment
         run: |
@@ -28,7 +26,7 @@ jobs:
           apt install -y git zip gh
 
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v6
 
       - name: Install symbconv
         run: |
@@ -44,7 +42,7 @@ jobs:
         run: zip -r icons ./gen/minimized/ ./gen/optimized/
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v6
         with:
           name: icons
           path: icons.zip
@@ -78,12 +76,12 @@ jobs:
           apt install -y git
 
       - name: Checkout main
-        uses: actions/checkout@v3
+        uses: actions/checkout@v6
         with:
           path: ${{ env.main_git_path }}
 
       - name: Checkout preview
-        uses: actions/checkout@v3
+        uses: actions/checkout@v6
         with:
           ref: 'preview'
           path: ${{ env.preview_git_path }}
