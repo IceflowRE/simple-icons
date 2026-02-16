@@ -31,7 +31,8 @@ if __name__ == '__main__':
     opt_path = gen_path / "optimized"
     min_path = gen_path / "minimized"
     for path in raw_path.glob('**'):
-        (opt_path / path.relative_to(raw_path)).mkdir(parents=True, exist_ok=True)
-        (min_path / path.relative_to(raw_path)).mkdir(parents=True, exist_ok=True)
+        if path.is_file():
+            (opt_path / path.parent.relative_to(raw_path)).mkdir(parents=True, exist_ok=True)
+            (min_path / path.parent.relative_to(raw_path)).mkdir(parents=True, exist_ok=True)
     check_exit(export_batch(get_paths(raw_path, opt_path, True), optimize_svg, "Optimize svg"))
     check_exit(export_batch(get_paths(raw_path, min_path, True), minimize_svg, "Minimize svg"))
