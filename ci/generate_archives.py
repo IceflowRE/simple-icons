@@ -11,7 +11,7 @@ if __name__ == '__main__':
     for typ in ["minimized", "optimized"]:
         icon_path = gen_path / typ
         for path in icon_path.rglob("*"):
-            if path.is_file():
+            if not path.is_dir():
                 continue
             output_file = gen_path / "archives" / f"{path.relative_to(icon_path)}-{typ}"
             print(f"zip {path}")

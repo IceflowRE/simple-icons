@@ -25,8 +25,8 @@ if __name__ == '__main__':
     # switch to the current icon path for iteration
     preview_path = Path("./preview/")
     icon_path = Path("./preview/icons")
-    for path in icon_path.glob("**"):
-        if path == icon_path:
+    for path in icon_path.rglob("*"):
+        if not path.is_dir():
             continue
 
         items = [preview.PreviewItem(file.relative_to(preview_path), str(file.relative_to(path))[:-4].replace("_", " ").replace("-", " ").title()) for file in
