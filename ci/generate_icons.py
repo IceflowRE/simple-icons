@@ -30,7 +30,7 @@ if __name__ == '__main__':
 
     opt_path = gen_path / "optimized"
     min_path = gen_path / "minimized"
-    for path in raw_path.glob('**'):
+    for path in raw_path.rglob("*"):
         if path.is_file():
             (opt_path / path.parent.relative_to(raw_path)).mkdir(parents=True, exist_ok=True)
             (min_path / path.parent.relative_to(raw_path)).mkdir(parents=True, exist_ok=True)
